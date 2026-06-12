@@ -17,3 +17,8 @@
    ```shell
    codex exec "Run an iteration of the process prompt for the book \"Le tour du monde\". Only inspect files under the current directory."
    ```
+5. Run the verify prompt.
+
+   ```shell
+   codex exec "Run the verify prompt for the book \"Le tour du monde\". Only inspect files under the current directory."
+   ```
