@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXVI completed
-- Completed sections: 26 of 37
-- Overall progress: 70.3%
-- Current complexity: early A2, 70.3% through the A1-to-B1 progression
+- Current section: Chapter XXVII completed
+- Completed sections: 27 of 37
+- Overall progress: 73.0%
+- Current complexity: early A2, 73.0% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -366,6 +366,21 @@
   proche du taureau
 - `dérailler / un déraillement` — descarrilar / un descarrilamiento, sortir
   des rails pour un train
+- `un missionnaire / faire une conférence` — un misionero / dar una
+  conferencia devant un public
+- `un martyr / une persécution` — un mártir / una persecución contre une
+  personne ou un groupe
+- `un prophète / un disciple` — un profeta / un discípulo qui suit son
+  enseignement
+- `fonder une religion ou une ville` — fundar una religión o una ciudad, la
+  créer et commencer son organisation
+- `faire faillite` — quebrar, ne plus avoir assez d'argent pour payer ses
+  dettes
+- `la polygamie` — la poligamia, le fait d'avoir plusieurs épouses ou époux
+- `un lac salé / la profondeur` — un lago salado / la profundidad entre la
+  surface et le fond
+- `une couche de neige` — una capa de nieve qui couvre le sol
+- `une scène de ménage` — una pelea de pareja ou de famille
 
 ## Introduced phrases and grammar
 
@@ -373,6 +388,8 @@
   véhicule d'avancer
 - `rattraper le temps perdu` — recuperar el tiempo perdido, aller plus vite
   après un retard
+- `à perdre haleine / essoufflé` — corriendo con todas sus fuerzas / sin
+  aliento après un grand effort
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -760,5 +777,17 @@ bisons then blocks the tracks for three hours. Fogg waits calmly, but
 Passepartout becomes furious. The engineer wisely refuses to drive into the
 animals because the train could derail. After the herd passes, the train
 continues into Utah and the region of the Great Salt Lake.
-Continue with Chapter XXVII at an early A2 level. The train has entered Utah
-after losing three hours because of the bison herd.
+In Chapter XXVII, Passepartout sees an announcement for a Mormon history
+lecture aboard the train and attends out of curiosity. The missionary William
+Hitch gives an angry account of Joseph Smith, the founding and persecution of
+the Mormon communities, Smith's death, and Brigham Young's settlement near
+the Great Salt Lake. The audience gradually leaves until Passepartout is
+alone; when Hitch asks him to join the Mormons, he refuses and escapes the
+wagon. The train passes the salt lake and reaches Ogden. During the stop,
+Fogg, Aouda, Fix, and Passepartout visit Salt Lake City and observe its
+straight streets, buildings, and Mormon families. As their train leaves, a
+Mormon man runs after it and jumps aboard. He is fleeing a domestic argument.
+Passepartout asks how many wives he has; the man answers that one is already
+enough.
+Continue with Chapter XXVIII at early A2, moving gradually toward mid A2. The
+train has left Ogden after the short visit to Salt Lake City.
