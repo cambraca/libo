@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XVII completed
-- Completed sections: 17 of 37
-- Overall progress: 45.9%
-- Current complexity: A1, 45.9% toward B1
+- Current section: Chapter XVIII completed
+- Completed sections: 18 of 37
+- Overall progress: 48.6%
+- Current complexity: early A2, 48.6% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -228,6 +228,24 @@
   le moteur
 - `une arrière-pensée` — una intención oculta derrière des paroles ou une
   action
+- `une tempête / une bourrasque` — una tormenta / una ráfaga de viento fuerte
+  et soudaine
+- `ralentir` — reducir la velocidad, aller moins vite
+- `mettre à la cape` — poner el barco de manera à résister à une forte
+  tempête
+- `un équipage` — una tripulación, l'ensemble des personnes qui travaillent
+  sur un bateau
+- `un baromètre` — un barómetro, un instrument qui aide à prévoir les
+  changements de temps
+- `s'apaiser` — calmarse, devenir moins violent ou moins agité
+- `un pilote` — un práctico, ici un marin qui connaît le port et guide les
+  bateaux
+- `une chaudière` — una caldera, la partie d'une machine à vapeur qui chauffe
+  l'eau
+- `un porteur` — un cargador, une personne payée pour porter des personnes ou
+  des objets
+- `un courtier` — un corredor o agente qui met en relation des personnes pour
+  des affaires
 
 ## Introduced phrases and grammar
 
@@ -311,6 +329,9 @@
   comprendre une idée
 - `être démasqué` — ser descubierto, ne plus pouvoir cacher sa véritable
   identité
+- `regagner le temps perdu` — recuperar el tiempo perdido, aller plus vite
+  après un retard
+- `retenir une cabine` — reservar un camarote dans un bateau
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -489,6 +510,15 @@ detective has been discovered. Fix decides that, if the arrest warrant is not
 waiting in Hong-Kong, he will tell Passepartout that Fogg is suspected of the
 bank robbery. Meanwhile, Passepartout sees Aouda's growing feelings for Fogg,
 but Fogg appears untouched by love and unconcerned about the voyage.
-Continue with Chapter XVIII at an early A1 level, moving gradually toward A2.
-The <i>Rangoon</i> is crossing rough seas toward Hong-Kong, and Fogg must
-arrive in time for the November 6 steamer to Yokohama.
+In Chapter XVIII, a storm slows the <i>Rangoon</i> and makes it arrive at
+Hong-Kong twenty-four hours late on November 6. Fogg remains calm, Fix enjoys
+the delay, and Passepartout becomes furious and anxious. They learn that the
+<i>Carnatic</i>, the steamer for Yokohama, has also been delayed because one
+of its boilers needs repairs, so it will leave the next morning. In
+Hong-Kong, Fogg searches for Aouda's wealthy relative Jejeeh but discovers
+that he moved to Europe two years earlier. Fogg simply invites Aouda to
+continue to Europe with him and sends Passepartout to reserve three cabins on
+the <i>Carnatic</i>.
+Continue with Chapter XIX at an early A2 level. Passepartout has left the
+<i>Hôtel du Club</i> to reserve three cabins on the <i>Carnatic</i>, which is
+scheduled to leave Hong-Kong at five the next morning.
