@@ -4,6 +4,33 @@ Create a `target` dir with a copy of the epub book in `source`, but without any 
 The target book should still contain the same table of contents, metadata, CSS styles, and any text surrounding the
 real book content (e.g. any sections like "acknowledgements", book covers, etc. should be copied now).
 
+Add this to the CSS (check for naming collisions with the existing styles and adapt this snippet if necessary):
+
+```css
+/* Learning notes shown before each adapted section. */
+.language-notes {
+    margin: 2em 0;
+    padding: 1em;
+    border: 1px solid #777;
+    background-color: #f3f3f3;
+    color: #222;
+}
+.language-notes h3 {
+    margin-top: 0;
+    font-weight: bold;
+}
+.language-notes dl {
+    margin-bottom: 0;
+}
+.language-notes dt {
+    margin-top: 0.75em;
+    font-weight: bold;
+}
+.language-notes dd {
+    margin-left: 1.5em;
+}
+```
+
 This will be used to later write an adaptation of the book meant to learn a new language. We will write it in a way
 that starts easy and gets progressively harder.
 
