@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XIII completed
-- Completed sections: 13 of 37
-- Overall progress: 35.1%
-- Current complexity: A1, 35.1% toward B1
+- Current section: Chapter XIV completed
+- Completed sections: 14 of 37
+- Overall progress: 37.8%
+- Current complexity: A1, 37.8% toward B1
 
 ## Introduced vocabulary
 
@@ -168,6 +168,22 @@
 - `le lever du jour` — el amanecer, le moment où le jour commence
 - `une foule` — una multitud, un grand groupe de personnes
 - `une ruse` — un truco, une action intelligente pour tromper quelqu'un
+- `un enlèvement` — un rapto, l'action d'emmener une personne contre la
+  volonté de ses gardes
+- `inconscient / inconsciente` — inconsciente, dans un état où une personne
+  ne voit et ne comprend rien
+- `se remettre` — recuperarse, retrouver peu à peu sa santé et ses forces
+- `un bourreau` — un verdugo, une personne qui fait souffrir ou tue une autre
+  personne
+- `un vêtement / un manteau` — una prenda de vestir / un abrigo
+- `un confluent` — una confluencia, le lieu où deux fleuves se rencontrent
+- `un pèlerin` — un peregrino, une personne qui voyage vers un lieu religieux
+- `la reconnaissance` — el agradecimiento, le sentiment d'une personne qui
+  remercie pour une aide
+- `une trompe` — una trompa, le long nez d'un éléphant
+- `une vallée` — un valle, une région basse entre des montagnes ou des
+  collines
+- `un champ` — un campo, une terre où l'on cultive des plantes
 
 ## Introduced phrases and grammar
 
@@ -226,6 +242,10 @@
   touché
 - `profiter de quelque chose` — aprovechar algo, utiliser une situation
   favorable
+- `tenir compte de` — tomar en cuenta, considérer une information avant de
+  décider
+- `faire ses adieux` — despedirse, dire au revoir avant une séparation
+- `lever l'ancre` — zarpar, quitter un port avec un bateau
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -355,6 +375,18 @@ placed beside her husband's body and the pyre is lit, Passepartout appears
 through the smoke disguised as the dead rajah, carries Aouda away, and tells
 the others to run. The group escapes rapidly on Kiouni while guards shoot
 after them; one bullet passes through Fogg's hat.
-Continue with Chapter XIV at an early A1 level, moving gradually toward A2.
-The travelers flee toward Allahabad with the unconscious Aouda and must
-decide how to keep her safe after she recovers.
+In Chapter XIV, the group reaches Allahabad while Aouda remains unconscious.
+Sir Francis warns Fogg that her enemies can find her anywhere in India, so
+she will only be safe after leaving the country. Passepartout buys European
+clothes for her. Before boarding the train, Fogg gives Kiouni to the loyal
+Parsi guide as a reward for his courage. On the way to Bénarès, Aouda wakes,
+learns how Fogg and Passepartout saved her, and thanks them. Fogg offers to
+take her to Hong-Kong, where she has a Parsi relative, and she accepts. Sir
+Francis leaves the group at Bénarès. The others continue through the Ganges
+valley and reach Calcutta on October 25, exactly on schedule. The two days
+previously gained have been spent crossing India, but Fogg does not regret
+using the time to save Aouda.
+Continue with Chapter XV at an early A1 level, moving gradually toward A2.
+Fogg, Passepartout, and Aouda arrive in Calcutta with five hours before the
+Hong-Kong paquebot departs, but the consequences of Passepartout's visit to
+the Bombay temple are waiting for them.
