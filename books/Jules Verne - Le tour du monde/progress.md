@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter IV completed
-- Completed sections: 4 of 37
-- Overall progress: 10.8%
-- Current complexity: A1, 10.8% toward B1
+- Current section: Chapter V completed
+- Completed sections: 5 of 37
+- Overall progress: 13.5%
+- Current complexity: A1, 13.5% toward B1
 
 ## Introduced vocabulary
 
@@ -39,6 +39,15 @@
   caridad
 - `un passeport / un visa` — un pasaporte / una autorización officielle
   pour entrer dans un pays
+- `se répandre` — difundirse, passer rapidement d'une personne à une autre
+- `soutenir quelqu'un` — apoyar a alguien, dire que cette personne a raison
+- `un obstacle` — un problema que rend une action difficile
+- `réussir` — tener éxito, arriver au résultat voulu
+- `un partisan` — una persona que apoya una idea o a otra persona
+- `une action / la Bourse` — una acción de una empresa / el mercado donde se
+  compran y venden acciones
+- `une dépêche` — un mensaje oficial envoyé rapidement, ici par télégraphe
+- `un mandat d'arrestation` — una orden oficial para detener a una persona
 
 ## Introduced phrases and grammar
 
@@ -57,6 +66,9 @@
 - `avoir soin de quelque chose` — cuidar algo
 - `oublier de faire quelque chose` — olvidar hacer algo
 - `se mettre en marche` — ponerse en movimiento, empezar a avanzar
+- `prendre parti pour / contre quelqu'un` — ponerse a favor / en contra de
+  alguien
+- `de moins en moins` — cada vez menos
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -86,7 +98,16 @@ notes, and hurry to Charing-Cross station. On the way, Fogg gives his whist
 winnings to a poor woman, which moves Passepartout. Fogg confirms the wager
 and return date to his five colleagues, and the train leaves at 8:45 p.m.
 Passepartout then remembers that he left the gas lamp burning in his room;
-Fogg calmly tells him that he will pay for it. Continue with Chapter V at an
-early A1 level. Preserve the public excitement around Fogg's wager, the
-newspaper reports, the changing bets, and the contrast between public opinion
-and Fogg's calm absence.
+Fogg calmly tells him that he will pay for it. In Chapter V, news of Fogg's
+wager spreads from the Reform-Club to newspapers and the British public. Most
+newspapers call the journey impossible, while only the Daily Telegraph offers
+limited support. A Royal Geographical Society article lists delays, accidents,
+snow, wind, and fog as obstacles, causing confidence in Fogg and the value of
+the public bets on him to fall sharply. Lord Albermale remains his notable
+supporter. Seven days after Fogg's departure, London police receive a telegram
+from Detective Fix in Suez identifying Fogg as the Bank of England robber and
+requesting an arrest warrant for Bombay. The public now interprets Fogg's
+mysterious life, sudden departure, wager, and world tour as a plan to escape
+the police. Continue with Chapter VI at an early A1 level. Introduce Detective
+Fix and the British consul at Suez, the expected arrival of the <i>Mongolia</i>,
+and Fix's impatience while he waits for the suspected thief.
