@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXI completed
-- Completed sections: 21 of 37
-- Overall progress: 56.8%
-- Current complexity: early A2, 56.8% through the A1-to-B1 progression
+- Current section: Chapter XXII completed
+- Completed sections: 22 of 37
+- Overall progress: 59.5%
+- Current complexity: early A2, 59.5% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -300,6 +300,13 @@
   demander une aide urgente
 - `un pavillon en berne` — una bandera a media asta, ici un signal pour
   montrer qu'un bateau est en difficulté
+- `hébété / tituber` — aturdido / tambalearse, marcher sans équilibre
+- `un cauchemar` — una pesadilla, un rêve qui fait peur
+- `trébucher` — tropezar, perdre presque l'équilibre en marchant
+- `un matelot` — un marinero, une personne qui travaille sur un bateau
+- `être ruiné` — estar arruinado, avoir perdu tout ou presque tout son argent
+- `un entrepôt` — un almacén, un grand bâtiment où l'on garde des marchandises
+- `une rizière` — un arrozal, un champ où l'on cultive le riz
 
 ## Introduced phrases and grammar
 
@@ -399,6 +406,8 @@
   que cette personne fera bien son travail
 - `tenir bon` — resistir, continuer malgré une situation difficile ou
   dangereuse
+- `reprendre son sang-froid` — recuperar la calma après une forte émotion
+- `avoir la poche vide` — no tener dinero disponible
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -621,5 +630,17 @@ weather improves on November 10. On November 11, weakening winds leave the
 <i>Tankadère</i> three miles from Shanghaï at seven in the evening, just as
 the American steamer departs. Fogg orders the crew to lower the flag as a
 distress signal and fire the small cannon to attract the steamer's attention.
-Continue with Chapter XXII at an early A2 level. The cannon has just been
-fired from the <i>Tankadère</i> as the American steamer leaves Shanghaï.
+In Chapter XXII, Passepartout wakes aboard the <i>Carnatic</i> after the
+narcotic and remembers running to the ship just before it left Hong-Kong.
+At first, he believes that Fogg and Aouda are also aboard. He then discovers
+that their reserved cabins are empty and realizes that he failed to warn his
+master about the earlier departure. He understands that Fix made him drunk
+to keep Fogg in Hong-Kong. With no money but with his passage and meals
+already paid, Passepartout eats as much as possible during the voyage. The
+<i>Carnatic</i> reaches Yokohama on November 13. Passepartout walks through
+the European and Japanese parts of the city, observing temples, soldiers,
+shops, tea houses, fields, flowers, and birds. He is hungry but cannot buy
+food, so he spends the evening wandering among lanterns, performers, and
+police patrols.
+Continue with Chapter XXIII at an early A2 level. Passepartout is alone,
+hungry, and without money in Yokohama after nightfall.
