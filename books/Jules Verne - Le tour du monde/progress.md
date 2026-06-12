@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXII completed
-- Completed sections: 22 of 37
-- Overall progress: 59.5%
-- Current complexity: early A2, 59.5% through the A1-to-B1 progression
+- Current section: Chapter XXIII completed
+- Completed sections: 23 of 37
+- Overall progress: 62.2%
+- Current complexity: early A2, 62.2% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -307,6 +307,17 @@
 - `être ruiné` — estar arruinado, avoir perdu tout ou presque tout son argent
 - `un entrepôt` — un almacén, un grand bâtiment où l'on garde des marchandises
 - `une rizière` — un arrozal, un champ où l'on cultive le riz
+- `affamé` — hambriento, qui a très faim
+- `échanger` — intercambiar, donner une chose et en recevoir une autre
+- `un brocanteur` — un vendedor de objetos usados
+- `une troupe` — una compañía, un groupe d'artistes qui travaillent ensemble
+- `un acrobate / un jongleur` — un acróbata / un malabarista
+- `engager quelqu'un` — contratar a alguien pour un travail
+- `une représentation` — un espectáculo présenté devant un public
+- `une pyramide humaine` — una pirámide humana formée par plusieurs personnes
+- `s'écrouler` — derrumbarse, tomber complètement
+- `des dommages-intérêts` — una indemnización, de l'argent demandé pour
+  réparer un dommage
 
 ## Introduced phrases and grammar
 
@@ -408,6 +419,7 @@
   dangereuse
 - `reprendre son sang-froid` — recuperar la calma après une forte émotion
 - `avoir la poche vide` — no tener dinero disponible
+- `trouver un moyen de` — encontrar una manera de faire quelque chose
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -642,5 +654,17 @@ the European and Japanese parts of the city, observing temples, soldiers,
 shops, tea houses, fields, flowers, and birds. He is hungry but cannot buy
 food, so he spends the evening wandering among lanterns, performers, and
 police patrols.
-Continue with Chapter XXIII at an early A2 level. Passepartout is alone,
-hungry, and without money in Yokohama after nightfall.
+In Chapter XXIII, the hungry Passepartout refuses to sell his watch. He
+exchanges his European clothes for an old Japanese outfit and a few coins,
+then buys a meal. Hoping to reach America, he first considers working on a
+ship. He instead sees an advertisement for William Batulcar's Japanese
+acrobatic troupe, which will soon leave for the United States. Batulcar
+engages him as a clown and places him in the base of the Longs-Nez human
+pyramid. During the performance, Passepartout recognizes Fogg in the
+audience, abandons his position, and makes the pyramid collapse. Fogg pays
+Batulcar for the damage. Fogg, Aouda, and Passepartout then board the
+American steamer at 6:30 p.m., while Passepartout still wears his wings and
+long false nose.
+Continue with Chapter XXIV at an early A2 level. Fogg, Aouda, and
+Passepartout have reunited and are aboard the American steamer bound across
+the Pacific.
