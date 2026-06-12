@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter VII completed
-- Completed sections: 7 of 37
-- Overall progress: 18.9%
-- Current complexity: A1, 18.9% toward B1
+- Current section: Chapter VIII completed
+- Completed sections: 8 of 37
+- Overall progress: 21.6%
+- Current complexity: A1, 21.6% toward B1
 
 ## Introduced vocabulary
 
@@ -79,6 +79,17 @@
 - `constater quelque chose` — comprobar algo, montrer officiellement qu'un
   fait est vrai
 - `se mettre à la recherche de quelqu'un` — ponerse a buscar a alguien
+- `flâner` — pasear sin prisa, marcher tranquillement sans destination précise
+- `un bazar` — un mercado o una tienda où l'on trouve beaucoup de produits
+  différents
+- `retarder` — atrasarse; pour une montre, indiquer une heure trop ancienne
+- `un chronomètre` — un reloj de gran precisión
+- `un gousset` — un pequeño bolsillo para guardar un reloj
+- `une somme` — una cantidad de dinero
+- `épargner l'argent` — ahorrar dinero, ne pas le dépenser
+- `faire des emplettes` — hacer compras, acheter plusieurs choses
+- `suivre quelqu'un` — seguir a alguien, aller derrière cette personne pour
+  savoir où elle va
 
 ## Introduced phrases and grammar
 
@@ -101,6 +112,10 @@
   alguien
 - `de moins en moins` — cada vez menos
 - `avoir de la patience` — tener paciencia, savoir attendre calmement
+- `être en règle` — estar en regla, respecter toutes les règles officielles
+- `manquer le bateau` — perder el barco, arriver trop tard pour partir avec lui
+- `être d'accord avec` — coincidir con; ici, indiquer la même heure
+- `ne plus avoir de doute` — ya no tener dudas, être complètement certain
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -163,4 +178,18 @@ itinerary, and notes that he has reached Suez exactly on schedule. He eats in
 his cabin instead of visiting the city. Continue with Chapter VIII at an early
 A1 level, with a slight increase in sentence variety. Fix approaches
 Passepartout on the quay, asks questions about the journey, and learns more
-than Passepartout should reveal.
+than Passepartout should reveal. In Chapter VIII, Fix finds Passepartout
+looking around Suez and offers to guide him to a bazaar. Passepartout is
+surprised to be in Africa and complains that he saw almost nothing of Paris.
+His watch still shows London time, and he refuses to change it, joking that
+the sun is wrong. While they walk, he tells Fix that Fogg left London
+suddenly, is traveling around the world because of a wager, carries a large
+sum in new bank notes, spends freely, and has known his new servant only since
+the day of departure. These details strengthen Fix's belief that Fogg is the
+bank robber. Passepartout also worries about the gas lamp still burning in his
+room. Fix returns to the consul, declares that he has no doubt, sends an
+urgent telegram requesting an arrest warrant in Bombay, and boards the
+<i>Mongolia</i> to follow Fogg to India. Continue with Chapter IX at an early
+A1 level, increasing sentence variety gradually. The <i>Mongolia</i> crosses
+the Red Sea and Indian Ocean while Fogg remains calm and the ship tries to
+arrive ahead of schedule.
