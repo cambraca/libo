@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter VI completed
-- Completed sections: 6 of 37
-- Overall progress: 16.2%
-- Current complexity: A1, 16.2% toward B1
+- Current section: Chapter VII completed
+- Completed sections: 7 of 37
+- Overall progress: 18.9%
+- Current complexity: A1, 18.9% toward B1
 
 ## Introduced vocabulary
 
@@ -65,6 +65,20 @@
 - `faire provision de` — abastecerse de, prendre une quantité nécessaire pour
   plus tard
 - `être en sûreté` — estar a salvo, ne pas être en danger
+- `un bureau` — una oficina, un lieu où une personne travaille
+- `faire viser un passeport` — hacer visar un pasaporte, obtenir une marque
+  officielle sur le document
+- `un cachet` — un sello officiel mis sur un document
+- `retenir quelqu'un` — retener a alguien, empêcher cette personne de partir
+- `observer` — observar, regarder avec beaucoup d'attention
+- `avoir l'air de` — parecer, donner une certaine impression
+- `être en avance / en retard` — estar adelantado / atrasado par rapport à
+  l'heure prévue
+- `un itinéraire` — un itinerario, un document qui indique les étapes d'un
+  voyage
+- `constater quelque chose` — comprobar algo, montrer officiellement qu'un
+  fait est vrai
+- `se mettre à la recherche de quelqu'un` — ponerse a buscar a alguien
 
 ## Introduced phrases and grammar
 
@@ -136,6 +150,17 @@ criminals, and reasons that the thief may leave the British route at Suez. The
 ashore. Passepartout asks him where the British consulate is and shows him his
 master's passport. Its description exactly matches the police description.
 Fix tells Passepartout that his master must appear at the consulate in person,
-so Passepartout returns to the ship to get Fogg. Continue with Chapter VII at
-an early A1 level. Show Fogg at the consulate, Fix's attempt to delay him, and
-the realization that a valid passport cannot stop a suspected criminal.
+so Passepartout returns to the ship to get Fogg. In Chapter VII, Fix hurries
+to the consulate and asks the consul not to approve Fogg's passport, hoping to
+keep him in Suez until the arrest warrant arrives. The consul explains that he
+cannot refuse a valid passport. Fogg and Passepartout enter; Fogg answers the
+consul's short questions and asks for a visa only to prove his passage through
+Suez. The consul signs and stamps the passport. Fix agrees that Fogg looks
+honest but still believes he matches the police description. He decides to
+question the more talkative Passepartout. Fogg returns to the
+<i>Mongolia</i>, records every departure and arrival in his detailed
+itinerary, and notes that he has reached Suez exactly on schedule. He eats in
+his cabin instead of visiting the city. Continue with Chapter VIII at an early
+A1 level, with a slight increase in sentence variety. Fix approaches
+Passepartout on the quay, asks questions about the journey, and learns more
+than Passepartout should reveal.
