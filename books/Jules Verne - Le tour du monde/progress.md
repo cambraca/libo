@@ -1078,3 +1078,13 @@ happiness of his marriage.
 
 The book is complete. All 37 sections have been adapted, ending at B1. Do not
 process another section.
+
+## Verification
+
+- Read through the complete target book and verified that all 37 chapters are
+  present.
+- Corrected typography and spelling, including `cœur` and `œuvre`.
+- Fixed grammar, agreement, and phrasing errors.
+- Corrected the Chapter XII heading level.
+- Confirmed that the adapted text flows coherently and that the book remains
+  complete.
