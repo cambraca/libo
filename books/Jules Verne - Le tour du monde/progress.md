@@ -4,10 +4,12 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXVI completed
-- Completed sections: 36 of 37
-- Overall progress: 97.3%
-- Current complexity: late A2, 97.3% through the A1-to-B1 progression
+- Current section: Chapter XXXVII completed
+- Completed sections: 37 of 37
+- Overall progress: 100%
+- Current complexity: B1, 100% through the A1-to-B1 progression
+- Status: Complete. The entire book has been adapted; do not process another
+  section.
 
 ## Introduced vocabulary
 
@@ -516,6 +518,16 @@
 - `un brouhaha` — un ruido confuso produit par beaucoup de voix en même temps
 - `un balancier` — un péndulo, la pièce d'une horloge qui bouge régulièrement
   de droite à gauche
+- `méticuleux` — meticuloso, qui fait très attention à tous les détails
+- `la circonférence terrestre` — la circunferencia terrestre, la distance
+  d'un tour complet de la Terre
+- `le résultat pécuniaire` — el resultado económico, la somme gagnée ou perdue
+  dans une affaire
+- `un témoin de mariage` — un testigo de boda, une personne qui confirme
+  officiellement le mariage
+- `dès l'aube` — desde el amanecer, dès le début du jour
+- `le sang-froid` — la sangre fría, la capacité de rester calme dans une
+  situation difficile
 
 ## Introduced phrases and grammar
 
@@ -553,6 +565,13 @@
 - `figurer sur une liste` — aparecer en una lista, y avoir son nom écrit
 - `être en délire` — estar eufórico, montrer une joie et une excitation
   extrêmes
+- `se tromper d'un jour` — equivocarse por un día, croire que la date est un
+  jour plus tôt ou plus tard
+- `entraîner quelqu'un` — llevarse a alguien, l'obliger à suivre par un
+  mouvement rapide
+- `en vouloir à quelqu'un` — estar resentido con alguien, garder de la colère
+  contre cette personne
+- `si ce n'est` — si no es, sauf ou à l'exception de
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -1044,6 +1063,18 @@ crowd gathers around the club. The five men study train arrivals and the
 America. As the clock approaches 8:45 p.m., they stop playing cards and count
 the final seconds. At 8:44 and 57 seconds, the door opens. Fogg enters before
 the deadline, followed by an excited crowd, and calmly says that he is there.
-Continue with Chapter XXXVII at B1. Phileas Fogg has appeared in the
-Reform-Club salon just before 8:45 p.m. on Saturday, although the previous
-chapter showed him at home on Sunday evening arranging his marriage.
+In Chapter XXXVII, Passepartout discovers from Reverend Samuel Wilson that it
+is Saturday rather than Sunday. He runs back to Saville-row and tells Fogg
+that they arrived one day earlier than they believed. They race to the
+Reform-Club, where Fogg appears at 8:45 p.m. and wins his wager. The narrator
+explains that traveling east shortened each day by four minutes per degree,
+so Fogg gained a complete day after crossing 360 degrees. Although he wins
+twenty thousand pounds, his travel expenses leave only one thousand, which
+he shares with Passepartout and Fix. Fogg and Aouda marry two days later.
+Passepartout then observes that the trip could have taken seventy-eight days
+without crossing India, but Fogg answers that he would not have met and saved
+Aouda. The narrator concludes that Fogg's true gain from the journey is the
+happiness of his marriage.
+
+The book is complete. All 37 sections have been adapted, ending at B1. Do not
+process another section.
