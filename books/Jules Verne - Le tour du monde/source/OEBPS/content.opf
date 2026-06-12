@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="fr">
+  <metadata>
+    <dc:rights>Public domain in the USA.</dc:rights>
+    <dc:identifier id="id">http://www.gutenberg.org/800</dc:identifier>
+    <dc:creator id="author_0">Jules Verne</dc:creator>
+    <meta property="file-as" refines="#author_0">Verne, Jules</meta>
+    <meta property="role" refines="#author_0" scheme="marc:relators">aut</meta>
+    <dc:title>Le tour du monde en quatre-vingts jours</dc:title>
+    <dc:language>fr</dc:language>
+    <dc:subject>Adventure stories</dc:subject>
+    <dc:subject>Voyages around the world -- Fiction</dc:subject>
+    <dc:date>1997-01-01</dc:date>
+    <meta property="dcterms:modified">2026-06-01T11:04:40Z</meta>
+    <dc:source>https://www.gutenberg.org/files/800/800-8.txt</dc:source>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessibilityFeature">readingOrder</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessibilitySummary">This publication may not have complete alternative text descriptions.</meta>
+    <meta name="cover" content="item1"/>
+  </metadata>
+  <manifest>
+    <!--Image: 1600 x 2400 size=63960 -->
+    <item href="1077662532586324696_800-cover.png" id="item1" media-type="image/png" properties="cover-image"/>
+    <item href="pgepub.css" id="item2" media-type="text/css"/>
+    <item href="0.css" id="item3" media-type="text/css"/>
+    <item href="1.css" id="item4" media-type="text/css"/>
+    <!--Chunk: size=215796 Split on h2-->
+    <item href="3848578131953003185_800-8-0.txt.xhtml" id="pg-header" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=215689 Split on h2-->
+    <item href="3848578131953003185_800-8-1.txt.xhtml" id="id00845" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=127422 Split on footer-->
+    <item href="3848578131953003185_800-8-2.txt.xhtml" id="id01568" media-type="application/xhtml+xml"/>
+    <!--Chunk: size=19589-->
+    <item href="3848578131953003185_800-8-3.txt.xhtml" id="pg-footer" media-type="application/xhtml+xml"/>
+    <item href="toc.xhtml" id="ncx" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="toc.ncx" id="ncx2" media-type="application/x-dtbncx+xml"/>
+    <item href="wrap0000.xhtml" id="coverpage-wrapper" media-type="application/xhtml+xml" properties="svg"/>
+  </manifest>
+  <spine toc="ncx2">
+    <itemref idref="coverpage-wrapper"/>
+    <itemref idref="pg-header"/>
+    <itemref idref="id00845"/>
+    <itemref idref="id01568"/>
+    <itemref idref="pg-footer"/>
+  </spine>
+</package>
