@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXVIII completed
-- Completed sections: 28 of 37
-- Overall progress: 75.7%
-- Current complexity: early-to-mid A2, 75.7% through the A1-to-B1 progression
+- Current section: Chapter XXIX completed
+- Completed sections: 29 of 37
+- Overall progress: 78.4%
+- Current complexity: early-to-mid A2, 78.4% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -395,6 +395,19 @@
   punto de derrumbarse
 - `une rive / un rapide` — una orilla / una partie d'une rivière où l'eau
   coule très vite
+- `un duel` — un duelo, un combat organisé entre deux adversaires
+- `un témoin` — un testigo; ici, une personne qui accompagne quelqu'un
+  pendant un duel
+- `un revolver / un coup de feu` — un revólver / un disparo
+- `une attaque / attaquer` — un ataque / atacar, commencer une action violente
+  contre quelqu'un
+- `un marchepied` — un estribo, une petite marche extérieure qui permet de
+  monter dans un train
+- `un frein` — un freno, un mécanisme utilisé pour ralentir ou arrêter un
+  véhicule
+- `détacher` — desenganchar o separar une chose qui était fixée à une autre
+- `un dévouement` — una entrega valiente, le fait de risquer beaucoup pour
+  aider les autres
 
 ## Introduced phrases and grammar
 
@@ -818,5 +831,16 @@ crossing it at maximum speed. Passepartout tries unsuccessfully to suggest
 that the passengers should cross on foot before the empty train. The train
 takes a long run-up, races over the bridge, and reaches the other side. The
 bridge falls into the river immediately afterward.
-Continue with Chapter XXIX at early-to-mid A2. The train has crossed the
-Medicine Bow bridge, and Colonel Proctor is still aboard.
+In Chapter XXIX, the train continues through Wyoming and Nebraska with Fogg
+still on schedule. Colonel Proctor interrupts Fogg's whist game and provokes
+him into a duel. When the train cannot stop at Plum-Creek, the conductor
+offers them the last wagon as a place to fight. Before the duel begins, about
+one hundred Sioux attack the moving train. Fogg, Proctor, Aouda, Fix, and the
+other passengers defend themselves while the attackers take the locomotive
+and accidentally make it run faster. The wounded conductor warns that they
+must stop before passing Fort Kearney. Passepartout climbs beneath the moving
+wagons, separates them from the locomotive, and allows the passengers to
+brake near the fort. The Sioux flee when the soldiers arrive, but
+Passepartout and several other passengers are missing.
+Continue with Chapter XXX at mid A2. The train is stopped near Fort Kearney
+after the Sioux attack, and Passepartout has disappeared.
