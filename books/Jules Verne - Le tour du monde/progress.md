@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XVI completed
-- Completed sections: 16 of 37
-- Overall progress: 43.2%
-- Current complexity: A1, 43.2% toward B1
+- Current section: Chapter XVII completed
+- Completed sections: 17 of 37
+- Overall progress: 45.9%
+- Current complexity: A1, 45.9% toward B1
 
 ## Introduced vocabulary
 
@@ -216,6 +216,18 @@
 - `échouer` — fracasar, ne pas réussir une action
 - `un complice` — un cómplice, une personne qui aide une autre personne à
   faire un crime
+- `un espion / espionner` — un espía / espiar, observer une personne en secret
+- `avoir des soupçons` — tener sospechas, penser qu'une chose cachée est
+  peut-être vraie
+- `faire une découverte` — hacer un descubrimiento, trouver une information
+  nouvelle
+- `un mangoustan` — un mangostán, un fruit tropical à la peau sombre et à la
+  chair blanche
+- `une grosse mer` — un mar agitado, avec de grandes vagues
+- `une voile / la vapeur` — una vela de barco / el vapor qui fait fonctionner
+  le moteur
+- `une arrière-pensée` — una intención oculta derrière des paroles ou une
+  action
 
 ## Introduced phrases and grammar
 
@@ -290,6 +302,15 @@
 - `faire semblant de` — fingir, montrer une chose qui n'est pas vraie
 - `mettre quelqu'un au courant` — informar a alguien, lui expliquer une
   situation
+- `larguer les amarres` — soltar las amarras, libérer les cordes qui attachent
+  un bateau au quai
+- `prendre des précautions` — tomar precauciones, agir avec prudence avant un
+  danger possible
+- `à ses frais` — por cuenta propia, avec son propre argent
+- `cligner de l'œil` — guiñar el ojo, fermer rapidement un œil pour faire
+  comprendre une idée
+- `être démasqué` — ser descubierto, ne plus pouvoir cacher sa véritable
+  identité
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -456,6 +477,18 @@ to meet him by surprise on deck. The talkative servant tells him the whole
 story of the journey through India and explains that Fogg is only taking
 Aouda to a relative in Hong-Kong, ending Fix's idea of using an abduction
 accusation. They agree to have a drink together.
-Continue with Chapter XVII at an early A1 level, moving gradually toward A2.
-The <i>Rangoon</i> is approaching Singapore. Fix still needs to delay Fogg
-until the arrest warrant reaches Hong-Kong.
+In Chapter XVII, Passepartout notices that Fix continues to follow Fogg's
+exact route. He wrongly concludes that the Reform-Club sent Fix to verify the
+journey, and he begins making indirect jokes about the detective's work. The
+<i>Rangoon</i> reaches Singapore half a day early. Fogg and Aouda tour the
+island while Fix secretly follows them, and Passepartout buys mangosteens for
+Aouda. The ship leaves for Hong-Kong, but rough seas and its poor construction
+force the captain to reduce speed. Fogg remains calm while Passepartout grows
+increasingly anxious. Passepartout's jokes convince Fix that his identity as a
+detective has been discovered. Fix decides that, if the arrest warrant is not
+waiting in Hong-Kong, he will tell Passepartout that Fogg is suspected of the
+bank robbery. Meanwhile, Passepartout sees Aouda's growing feelings for Fogg,
+but Fogg appears untouched by love and unconcerned about the voyage.
+Continue with Chapter XVIII at an early A1 level, moving gradually toward A2.
+The <i>Rangoon</i> is crossing rough seas toward Hong-Kong, and Fogg must
+arrive in time for the November 6 steamer to Yokohama.
