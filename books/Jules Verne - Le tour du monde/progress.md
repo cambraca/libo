@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter III completed
-- Completed sections: 3 of 37
-- Overall progress: 8.1%
-- Current complexity: A1, 8.1% toward B1
+- Current section: Chapter IV completed
+- Completed sections: 4 of 37
+- Overall progress: 10.8%
+- Current complexity: A1, 10.8% toward B1
 
 ## Introduced vocabulary
 
@@ -31,6 +31,14 @@
 - `un chemin de fer / un paquebot` — un ferrocarril / un barco grande
   pour les voyageurs
 - `un retard` — una demora; le fait d'arriver après l'heure prévue
+- `un sac de voyage` — una bolsa de viaje
+- `une couverture` — una manta para se protéger du froid
+- `une gare / un billet de train` — una estación de tren / un boleto de
+  tren
+- `une mendiante / demander l'aumône` — una mujer que pide dinero / pedir
+  caridad
+- `un passeport / un visa` — un pasaporte / una autorización officielle
+  pour entrer dans un pays
 
 ## Introduced phrases and grammar
 
@@ -46,6 +54,9 @@
 - `être de retour` — estar de regreso
 - `tout de suite` — inmediatamente
 - `être prêt` — estar listo
+- `avoir soin de quelque chose` — cuidar algo
+- `oublier de faire quelque chose` — olvidar hacer algo
+- `se mettre en marche` — ponerse en movimiento, empezar a avanzar
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -68,6 +79,14 @@ from the Bank of England and whether the thief can escape in a world made
 smaller by fast travel. Fogg states that a person can travel around the world
 in eighty days. Andrew Stuart challenges him, and Fogg wagers twenty thousand
 pounds that he will return to the Reform-Club by 8:45 p.m. on December 21. He
-plans to leave for Dover that same evening. Continue with Chapter IV at an
-early A1 level, keeping the urgent departure clear and using short connected
-sentences, direct dialogue, clock times, and simple future meaning.
+plans to leave for Dover that same evening. In Chapter IV, Fogg returns home
+unexpectedly and tells the astonished Passepartout that they will leave in ten
+minutes. They pack one small bag, including twenty thousand pounds in bank
+notes, and hurry to Charing-Cross station. On the way, Fogg gives his whist
+winnings to a poor woman, which moves Passepartout. Fogg confirms the wager
+and return date to his five colleagues, and the train leaves at 8:45 p.m.
+Passepartout then remembers that he left the gas lamp burning in his room;
+Fogg calmly tells him that he will pay for it. Continue with Chapter V at an
+early A1 level. Preserve the public excitement around Fogg's wager, the
+newspaper reports, the changing bets, and the contrast between public opinion
+and Fogg's calm absence.
