@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter VIII completed
-- Completed sections: 8 of 37
-- Overall progress: 21.6%
-- Current complexity: A1, 21.6% toward B1
+- Current section: Chapter IX completed
+- Completed sections: 9 of 37
+- Overall progress: 24.3%
+- Current complexity: A1, 24.3% toward B1
 
 ## Introduced vocabulary
 
@@ -90,6 +90,19 @@
 - `faire des emplettes` — hacer compras, acheter plusieurs choses
 - `suivre quelqu'un` — seguir a alguien, aller derrière cette personne pour
   savoir où elle va
+- `une traversée` — una travesía, un voyage sur la mer
+- `un fonctionnaire / un officier` — un funcionario de l'État / un oficial de
+  l'armée
+- `le mal de mer` — el mareo causado par le mouvement d'un bateau
+- `le pont` — la cubierta, la partie extérieure d'un bateau où l'on peut
+  marcher
+- `une cabine` — un camarote, une petite chambre dans un bateau
+- `le vent / les vagues` — el viento / las olas de la mer
+- `le charbon` — el carbón, ici le combustible utilisé par le paquebot
+- `se réapprovisionner` — reabastecerse, prendre de nouvelles provisions
+- `à l'horizon` — en el horizonte, à la limite entre le ciel et la terre ou la
+  mer
+- `accoster` — atracar, arriver contre le quai avec un bateau
 
 ## Introduced phrases and grammar
 
@@ -116,6 +129,10 @@
 - `manquer le bateau` — perder el barco, arriver trop tard pour partir avec lui
 - `être d'accord avec` — coincidir con; ici, indiquer la même heure
 - `ne plus avoir de doute` — ya no tener dudas, être complètement certain
+- `faire escale` — hacer escala, s'arrêter dans un port pendant un voyage
+- `une heure de gagnée` — una hora ganada, une heure d'avance sur le programme
+- `se lier avec quelqu'un` — hacerse amigo de alguien, créer une relation avec
+  cette personne
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -175,8 +192,7 @@ honest but still believes he matches the police description. He decides to
 question the more talkative Passepartout. Fogg returns to the
 <i>Mongolia</i>, records every departure and arrival in his detailed
 itinerary, and notes that he has reached Suez exactly on schedule. He eats in
-his cabin instead of visiting the city. Continue with Chapter VIII at an early
-A1 level, with a slight increase in sentence variety. Fix approaches
+his cabin instead of visiting the city. Fix approaches
 Passepartout on the quay, asks questions about the journey, and learns more
 than Passepartout should reveal. In Chapter VIII, Fix finds Passepartout
 looking around Suez and offers to guide him to a bazaar. Passepartout is
@@ -189,7 +205,17 @@ the day of departure. These details strengthen Fix's belief that Fogg is the
 bank robber. Passepartout also worries about the gas lamp still burning in his
 room. Fix returns to the consul, declares that he has no doubt, sends an
 urgent telegram requesting an arrest warrant in Bombay, and boards the
-<i>Mongolia</i> to follow Fogg to India. Continue with Chapter IX at an early
-A1 level, increasing sentence variety gradually. The <i>Mongolia</i> crosses
-the Red Sea and Indian Ocean while Fogg remains calm and the ship tries to
-arrive ahead of schedule.
+<i>Mongolia</i> to follow Fogg to India. In Chapter IX, the
+<i>Mongolia</i> crosses the Red Sea while its many officials, officers, and
+wealthy passengers eat well, make music, and dance when the weather permits.
+Fogg remains completely calm during rough weather, takes four meals a day,
+and plays whist for hours with three other passengers. Passepartout enjoys the
+voyage and meets Fix again, believing that the detective is a friendly agent
+of the shipping company. Fix deliberately becomes friendly with him. The ship
+passes Moka and stops at Aden for coal. Fogg gets another passport visa while
+Passepartout explores the city. The <i>Mongolia</i> then crosses the Indian
+Ocean in favorable weather and reaches Bombay on October 20, two days early.
+Fogg records the two gained days in his itinerary. Continue with Chapter X at
+an early A1 level, with gradually increasing sentence variety. Fogg and
+Passepartout arrive in Bombay, where Passepartout enters a temple without
+knowing the local rules.
