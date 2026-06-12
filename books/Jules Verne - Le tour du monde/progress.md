@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XV completed
-- Completed sections: 15 of 37
-- Overall progress: 40.5%
-- Current complexity: A1, 40.5% toward B1
+- Current section: Chapter XVI completed
+- Completed sections: 16 of 37
+- Overall progress: 43.2%
+- Current complexity: A1, 43.2% toward B1
 
 ## Introduced vocabulary
 
@@ -206,6 +206,16 @@
   un jugement
 - `jeter l'ancre / être en rade` — echar el ancla / estar fondeado fuera du
   port
+- `un steamer à hélice` — un barco de vapor que avanza con una hélice
+- `un refuge` — un refugio, un lieu où une personne peut être en sécurité
+- `un détroit` — un estrecho, un passage étroit entre deux terres qui relie
+  deux mers
+- `dissimuler` — ocultar, cacher quelque chose ou sa présence
+- `une extradition` — une extradición, une procédure pour envoyer un accusé
+  dans un autre pays
+- `échouer` — fracasar, ne pas réussir une action
+- `un complice` — un cómplice, une personne qui aide une autre personne à
+  faire un crime
 
 ## Introduced phrases and grammar
 
@@ -272,6 +282,14 @@
   avoir payé une garantie
 - `suivre les traces de quelqu'un` — seguir el rastro de alguien, continuer à
   suivre cette personne
+- `être bien installé` — estar cómodo y tener une bonne place pendant un
+  voyage
+- `témoigner sa reconnaissance` — mostrar su agradecimiento à une personne
+- `prévenir les autorités` — avisar a las autoridades, leur donner une
+  information importante
+- `faire semblant de` — fingir, montrer une chose qui n'est pas vraie
+- `mettre quelqu'un au courant` — informar a alguien, lui expliquer une
+  situation
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -424,6 +442,20 @@ men free to leave. He, Aouda, and Passepartout reach the <i>Rangoon</i> at
 eleven, one hour before departure. Fix follows them, angry that Fogg is
 willing to abandon the bail money and worried that the suspected stolen
 money, and therefore his possible reward, is rapidly disappearing.
-Continue with Chapter XVI at an early A1 level, moving gradually toward A2.
-The <i>Rangoon</i> sails toward Hong-Kong with Fogg, Aouda, Passepartout, and
-Fix aboard.
+In Chapter XVI, the <i>Rangoon</i> begins its journey from Calcutta toward
+Hong-Kong. Aouda gets to know Fogg better, thanks him for saving her, and
+explains that she hopes to find help from a Parsi relative in Hong-Kong.
+Fogg remains calm and attentive but shows no emotion. The ship passes the
+Andaman Islands in good weather. Fix hides in his cabin because Passepartout
+believes he stayed in Bombay. He knows Hong-Kong is his last easy chance to
+arrest Fogg on British territory; after that, extradition would be necessary.
+Fix considers telling Passepartout that Fogg is suspected of robbery, then
+briefly imagines accusing Fogg of abducting Aouda. Before contacting the
+authorities from Singapore, he decides to question Passepartout. He pretends
+to meet him by surprise on deck. The talkative servant tells him the whole
+story of the journey through India and explains that Fogg is only taking
+Aouda to a relative in Hong-Kong, ending Fix's idea of using an abduction
+accusation. They agree to have a drink together.
+Continue with Chapter XVII at an early A1 level, moving gradually toward A2.
+The <i>Rangoon</i> is approaching Singapore. Fix still needs to delay Fogg
+until the arrest warrant reaches Hong-Kong.
