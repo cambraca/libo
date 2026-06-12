@@ -4,6 +4,10 @@ Take into account the exact level of where we are, given the total number of sec
 current progress that we've recorded (progress.md), and the configuration of which levels we're aiming to start and end
 on. Also look at the `0-initialize.md` instructions, which were already completed.
 
+Write it in a way that does not summarize the source material. In general, try to preserve the structure (paragraphs,
+etc.) as much as possible. We want to produce essentially the same text, only at a level that a language learner
+can read.
+
 Do not read much more than what's relevant (e.g. the entire source book), although it's fine to read, for context, the
 previous section, so that the text flows naturally.
 
