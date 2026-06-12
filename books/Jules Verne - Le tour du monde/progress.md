@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XIV completed
-- Completed sections: 14 of 37
-- Overall progress: 37.8%
-- Current complexity: A1, 37.8% toward B1
+- Current section: Chapter XV completed
+- Completed sections: 15 of 37
+- Overall progress: 40.5%
+- Current complexity: A1, 40.5% toward B1
 
 ## Introduced vocabulary
 
@@ -184,6 +184,28 @@
 - `une vallée` — un valle, une région basse entre des montagnes ou des
   collines
 - `un champ` — un campo, une terre où l'on cultive des plantes
+- `un policier / un prisonnier` — un policía / un prisionero, une personne
+  que la police retient
+- `la loi` — la ley, l'ensemble des règles officielles d'un pays
+- `un juge / un tribunal` — un juez / un tribunal, le lieu où un juge examine
+  une affaire
+- `un accusé / un plaignant` — un acusado / un denunciante, la personne qui
+  présente une plainte
+- `un greffier` — un secretario judicial, la personne qui écrit les décisions
+  du tribunal
+- `une perruque` — una peluca, de faux cheveux portés sur la tête
+- `une plainte` — una denuncia, une accusation présentée à la justice
+- `un sacrilège` — un sacrilegio, une action qui ne respecte pas un lieu ou
+  un objet religieux
+- `avouer` — confesar, reconnaître que l'on a fait une action
+- `une preuve` — una prueba, un élément qui montre qu'une chose est vraie
+- `condamner quelqu'un` — condenar a alguien, décider officiellement de sa
+  punition
+- `une amende` — una multa, une somme d'argent payée comme punition
+- `une caution` — una fianza, une somme payée pour rester libre avant ou après
+  un jugement
+- `jeter l'ancre / être en rade` — echar el ancla / estar fondeado fuera du
+  port
 
 ## Introduced phrases and grammar
 
@@ -246,6 +268,10 @@
   décider
 - `faire ses adieux` — despedirse, dire au revoir avant une séparation
 - `lever l'ancre` — zarpar, quitter un port avec un bateau
+- `être libre sous caution` — estar libre bajo fianza, pouvoir partir après
+  avoir payé une garantie
+- `suivre les traces de quelqu'un` — seguir el rastro de alguien, continuer à
+  suivre cette personne
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -386,7 +412,18 @@ Francis leaves the group at Bénarès. The others continue through the Ganges
 valley and reach Calcutta on October 25, exactly on schedule. The two days
 previously gained have been spent crossing India, but Fogg does not regret
 using the time to save Aouda.
-Continue with Chapter XV at an early A1 level, moving gradually toward A2.
-Fogg, Passepartout, and Aouda arrive in Calcutta with five hours before the
-Hong-Kong paquebot departs, but the consequences of Passepartout's visit to
-the Bombay temple are waiting for them.
+In Chapter XV, a policeman arrests Fogg and Passepartout as they leave the
+Calcutta station, and Aouda accompanies them. At the tribunal, they first
+believe the case concerns Aouda's rescue, but the three complainants are the
+priests from the Malebar-Hill temple in Bombay. Fix arranged the complaint
+and waits in the courtroom because his arrest warrant still has not arrived.
+Passepartout is sentenced to fifteen days in prison and a three-hundred-pound
+fine; Fogg receives eight days and a one-hundred-and-fifty-pound fine as the
+responsible master. Fogg calmly pays two thousand pounds in bail, making both
+men free to leave. He, Aouda, and Passepartout reach the <i>Rangoon</i> at
+eleven, one hour before departure. Fix follows them, angry that Fogg is
+willing to abandon the bail money and worried that the suspected stolen
+money, and therefore his possible reward, is rapidly disappearing.
+Continue with Chapter XVI at an early A1 level, moving gradually toward A2.
+The <i>Rangoon</i> sails toward Hong-Kong with Fogg, Aouda, Passepartout, and
+Fix aboard.
