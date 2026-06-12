@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXV completed
-- Completed sections: 25 of 37
-- Overall progress: 67.6%
-- Current complexity: early A2, 67.6% through the A1-to-B1 progression
+- Current section: Chapter XXVI completed
+- Completed sections: 26 of 37
+- Overall progress: 70.3%
+- Current complexity: early A2, 70.3% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -350,8 +350,29 @@
 - `être en lambeaux` — estar hecho jirones, être très déchiré
 - `un juge de paix` — un juez de paz, un juge local qui traite des affaires
   simples
+- `relier / se raccorder` — conectar / unirse, permettre le passage entre
+  deux lieux ou deux lignes
+- `une voie ferrée / un rail` — una vía férrea / un riel sur lequel roule un
+  train
+- `coloniser un territoire` — colonizar un territorio, s'y installer pour y
+  former une communauté
+- `un embranchement` — un ramal, une ligne secondaire qui part d'une ligne
+  principale
+- `un wagon-lit / une couchette` — un coche cama / una litera pour dormir
+  dans un train
+- `un précipice / une gorge` — un precipicio / un paso estrecho entre des
+  montagnes
+- `un troupeau / un bison` — un rebaño / un bisonte, un grand animal sauvage
+  proche du taureau
+- `dérailler / un déraillement` — descarrilar / un descarrilamiento, sortir
+  des rails pour un train
 
 ## Introduced phrases and grammar
+
+- `barrer le passage` — bloquear el paso, empêcher une personne ou un
+  véhicule d'avancer
+- `rattraper le temps perdu` — recuperar el tiempo perdido, aller plus vite
+  après un retard
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -727,6 +748,17 @@ hotel, where Passepartout accepts that Fix has acted as an ally. They reach
 the station at 5:45 p.m. Fogg discovers that the violent election concerned
 only the position of justice of the peace, then boards the train for New
 York.
-Continue with Chapter XXVI at an early A2 level. Fogg, Aouda, Passepartout,
-and Fix have boarded the Pacific Railroad train from San Francisco to New
-York.
+In Chapter XXVI, the narrator explains that the Pacific Railroad connects
+San Francisco and New York through the Central Pacific and Union Pacific
+lines. A journey that once took six months can now be completed in seven
+days. Fogg expects this schedule to let him catch the Liverpool steamer in
+New York on December 11. The travelers spend their first night in a
+comfortable sleeping car and pass Sacramento while asleep. The next morning,
+the train crosses the Sierra Nevada, stops briefly at Reno, and continues
+through Nevada beside the Humboldt River. A herd of ten to twelve thousand
+bisons then blocks the tracks for three hours. Fogg waits calmly, but
+Passepartout becomes furious. The engineer wisely refuses to drive into the
+animals because the train could derail. After the herd passes, the train
+continues into Utah and the region of the Great Salt Lake.
+Continue with Chapter XXVII at an early A2 level. The train has entered Utah
+after losing three hours because of the bison herd.
