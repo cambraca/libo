@@ -2,7 +2,7 @@
 
 1. Open this project in an IDE.
 2. Set up the book you want to translate into a subdirectory of `/books`.
-3. Run the initialization prompt. For example:
+3. Run the initialization prompt (tested with Codex using GPT-5.5, with "medium" reasoning).
 
    ```
    Run the initialize prompt for the book "Le tour du monde".
