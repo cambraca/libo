@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter V completed
-- Completed sections: 5 of 37
-- Overall progress: 13.5%
-- Current complexity: A1, 13.5% toward B1
+- Current section: Chapter VI completed
+- Completed sections: 6 of 37
+- Overall progress: 16.2%
+- Current complexity: A1, 16.2% toward B1
 
 ## Introduced vocabulary
 
@@ -48,6 +48,23 @@
   compran y venden acciones
 - `une dépêche` — un mensaje oficial envoyé rapidement, ici par télégraphe
 - `un mandat d'arrestation` — una orden oficial para detener a una persona
+- `un quai` — un muelle, le lieu où les voyageurs attendent près de l'eau
+- `un consul / un consulat` — un cónsul / la oficina que représente un pays
+  dans une ville étrangère
+- `surveiller` — vigilar, regarder avec attention
+- `suspect` — sospechoso, une personne qui peut avoir fait quelque chose de
+  mauvais
+- `un signalement` — una descripción physique utilisée pour reconnaître une
+  personne
+- `une prime` — una recompensa, une somme d'argent donnée pour un succès
+- `reconnaître quelqu'un` — reconocer a alguien grâce à son visage ou à sa
+  description
+- `être à bord` — estar a bordo, être dans un bateau
+- `mettre pied à terre` — desembarcar, descendre d'un bateau et arriver sur la
+  terre
+- `faire provision de` — abastecerse de, prendre une quantité nécessaire pour
+  plus tard
+- `être en sûreté` — estar a salvo, ne pas être en danger
 
 ## Introduced phrases and grammar
 
@@ -69,6 +86,7 @@
 - `prendre parti pour / contre quelqu'un` — ponerse a favor / en contra de
   alguien
 - `de moins en moins` — cada vez menos
+- `avoir de la patience` — tener paciencia, savoir attendre calmement
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -108,6 +126,16 @@ supporter. Seven days after Fogg's departure, London police receive a telegram
 from Detective Fix in Suez identifying Fogg as the Bank of England robber and
 requesting an arrest warrant for Bombay. The public now interprets Fogg's
 mysterious life, sudden departure, wager, and world tour as a plan to escape
-the police. Continue with Chapter VI at an early A1 level. Introduce Detective
-Fix and the British consul at Suez, the expected arrival of the <i>Mongolia</i>,
-and Fix's impatience while he waits for the suspected thief.
+the police. In Chapter VI, Detective Fix waits at Suez with the British consul
+for the fast paquebot <i>Mongolia</i>, which travels from Brindisi to Bombay.
+Fix has been sent to watch travelers after the Bank of England robbery. He has
+a description of the suspected thief and hopes to win the police reward. He
+impatiently questions the consul about the ship, boasts that he can recognize
+criminals, and reasons that the thief may leave the British route at Suez. The
+<i>Mongolia</i> arrives at eleven. Fix examines every passenger who comes
+ashore. Passepartout asks him where the British consulate is and shows him his
+master's passport. Its description exactly matches the police description.
+Fix tells Passepartout that his master must appear at the consulate in person,
+so Passepartout returns to the ship to get Fogg. Continue with Chapter VII at
+an early A1 level. Show Fogg at the consulate, Fix's attempt to delay him, and
+the realization that a valid passport cannot stop a suspected criminal.
