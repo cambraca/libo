@@ -106,3 +106,26 @@ body {
 a {
     text-decoration: initial
     }
+
+/* Learning notes shown before each adapted chapter. */
+.language-notes {
+    margin: 2em 0;
+    padding: 1em;
+    border: 1px solid #777;
+    background-color: #f3f3f3;
+    color: #222;
+}
+.language-notes h3 {
+    margin-top: 0;
+    font-weight: bold;
+}
+.language-notes dl {
+    margin-bottom: 0;
+}
+.language-notes dt {
+    margin-top: 0.75em;
+    font-weight: bold;
+}
+.language-notes dd {
+    margin-left: 1.5em;
+}
