@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXIV completed
-- Completed sections: 34 of 37
-- Overall progress: 91.9%
-- Current complexity: mid-to-late A2, 91.9% through the A1-to-B1 progression
+- Current section: Chapter XXXV completed
+- Completed sections: 35 of 37
+- Overall progress: 94.6%
+- Current complexity: late A2, 94.6% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -486,6 +486,20 @@
 - `un train spécial` — un tren especial organisé pour un voyage précis, en
   dehors du service normal
 - `un mécanicien` — un maquinista, la personne qui conduit une locomotive
+- `des provisions` — provisiones, de la nourriture et d'autres produits
+  achetés pour les jours suivants
+- `un reliquat` — un resto, la petite partie d'une somme qui reste après des
+  dépenses
+- `un projet funeste` — un proyecto fatal, une intention qui peut conduire à
+  un grand malheur ou à la mort
+- `un bec de gaz` — una lámpara de gas utilisée autrefois pour éclairer une
+  pièce
+- `le trou d'une serrure` — el ojo de una cerradura, la petite ouverture où
+  l'on met une clé
+- `l'isolement` — el aislamiento, la situation d'une personne qui reste seule
+  et sans proches
+- `un révérend / une paroisse` — un reverendo, ministre religieux / una
+  parroquia, le territoire et la communauté dont il s'occupe
 
 ## Introduced phrases and grammar
 
@@ -505,6 +519,16 @@
   effort
 - `avoir perdu son pari` — haber perdido su apuesta, ne pas avoir réalisé la
   condition annoncée
+- `mettre de l'ordre dans ses affaires` — poner sus asuntos en orden,
+  organiser ses documents, son argent et ses décisions
+- `se consacrer à quelque chose` — dedicarse a algo, employer tout son temps
+  et toute son attention à cette activité
+- `avoir la conscience bourrelée de remords` — estar atormentado por el
+  remordimiento, souffrir beaucoup à cause d'une faute passée
+- `sauvegarder la situation de quelqu'un` — proteger la situación de alguien,
+  prendre des mesures pour assurer son avenir
+- `porter une somme au crédit de quelqu'un` — abonar una suma a la cuenta de
+  alguien
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -977,5 +1001,16 @@ punches the detective. The regular London express has already departed, so
 Fogg hires a special train and offers its driver a reward for speed. Forced
 delays prevent success: he reaches London at 8:50 p.m., apparently five
 minutes too late for the Reform-Club deadline.
-Continue with Chapter XXXV at late A2. Fogg, Aouda, and Passepartout have just
-arrived in London believing that the wager has been lost by five minutes.
+In Chapter XXXV, Fogg returns to his closed Saville-row house after apparently
+losing the wager and nearly all his fortune. Passepartout, tormented by guilt,
+watches him closely because Aouda fears that he plans to take his own life.
+Fogg calmly spends Sunday putting his affairs in order and asks to speak with
+Aouda that evening. He apologizes for bringing her to England when he can no
+longer provide for her, but still offers her the little money he has left.
+Aouda answers that she may have contributed to his ruin, then asks whether he
+wants her as both family and friend: she proposes marriage. Fogg declares
+that he loves her. They agree to marry on Monday, and Passepartout runs to
+notify the Reverend Samuel Wilson.
+Continue with Chapter XXXVI at late A2. Passepartout has just left the
+Saville-row house at 8:05 p.m. on Sunday to arrange Fogg and Aouda's marriage
+for the next day.
