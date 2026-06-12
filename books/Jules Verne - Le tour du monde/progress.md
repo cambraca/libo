@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XII completed
-- Completed sections: 12 of 37
-- Overall progress: 32.4%
-- Current complexity: A1, 32.4% toward B1
+- Current section: Chapter XIII completed
+- Completed sections: 13 of 37
+- Overall progress: 35.1%
+- Current complexity: A1, 35.1% toward B1
 
 ## Introduced vocabulary
 
@@ -150,6 +150,24 @@
 - `une veuve` — una viuda, une femme dont le mari est mort
 - `brûler vif / vive` — quemar vivo / viva, tuer une personne par le feu
 - `volontaire` — voluntario, fait librement et sans obligation
+- `hardi / audacieux` — atrevido, valiente, prêt à agir malgré le danger
+- `un allié` — un aliado, une personne qui aide une autre personne
+- `une victime` — una víctima, une personne qui souffre à cause d'une action
+- `un orphelin / une orpheline` — un huérfano / una huérfana, une personne
+  dont les parents sont morts
+- `un marchand` — un comerciante, une personne qui achète et vend des
+  produits
+- `emprisonner` — encarcelar, garder une personne prisonnière
+- `un mur / une brique` — un muro / un ladrillo
+- `une torche` — una antorcha, un bâton avec du feu utilisé pour éclairer
+- `un bûcher` — una hoguera, ici un grand tas de bois préparé pour brûler un
+  corps
+- `un garde` — un guardia, une personne qui surveille et protège un lieu
+- `percer un trou` — hacer un agujero dans un mur ou une autre surface
+- `se réfugier` — refugiarse, aller dans un lieu pour se protéger
+- `le lever du jour` — el amanecer, le moment où le jour commence
+- `une foule` — una multitud, un grand groupe de personnes
+- `une ruse` — un truco, une action intelligente pour tromper quelqu'un
 
 ## Introduced phrases and grammar
 
@@ -201,6 +219,13 @@
   temps pour cette chose
 - `avoir du coeur` — tener buen corazón, être généreux et vouloir aider les
   autres
+- `risquer sa vie` — arriesgar la vida, faire quelque chose qui peut causer la
+  mort
+- `à voix basse` — en voz baja, sans parler fort
+- `être hors de portée` — estar fuera de alcance, être trop loin pour être
+  touché
+- `profiter de quelque chose` — aprovechar algo, utiliser une situation
+  favorable
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -319,6 +344,17 @@ husband, a rajah. Sir Francis and the Parsi explain that the woman will be
 burned with her husband's body at sunrise in a sutty. The guide says the
 sacrifice is not voluntary. Fogg decides to use twelve hours of his lead to
 try to save her.
-Continue with Chapter XIII at an early A1 level, moving gradually toward A2.
-Fogg, Sir Francis, Passepartout, and the Parsi guide attempt to rescue the
-young woman from the pagoda of Pillaji before sunrise.
+In Chapter XIII, the Parsi guide identifies the intended victim as Aouda, a
+well-educated young Parsi woman who was forced to marry the old rajah. The
+four men approach the pagoda after dark and first hope that its guards will
+fall asleep. When the guards remain awake, Passepartout and the guide begin
+making a hole in the rear wall, but cries from the temple bring more guards
+and force them to abandon the attempt. Fogg refuses to leave before the
+sacrifice. Near dawn, Passepartout secretly forms another plan. When Aouda is
+placed beside her husband's body and the pyre is lit, Passepartout appears
+through the smoke disguised as the dead rajah, carries Aouda away, and tells
+the others to run. The group escapes rapidly on Kiouni while guards shoot
+after them; one bullet passes through Fogg's hat.
+Continue with Chapter XIV at an early A1 level, moving gradually toward A2.
+The travelers flee toward Allahabad with the unconscious Aouda and must
+decide how to keep her safe after she recovers.
