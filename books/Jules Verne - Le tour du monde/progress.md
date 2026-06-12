@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XIX completed
-- Completed sections: 19 of 37
-- Overall progress: 51.4%
-- Current complexity: early A2, 51.4% through the A1-to-B1 progression
+- Current section: Chapter XX completed
+- Completed sections: 20 of 37
+- Overall progress: 54.1%
+- Current complexity: early A2, 54.1% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -262,6 +262,27 @@
 - `la culpabilité` — la culpabilidad, le fait d'être responsable d'un crime
 - `un narcotique` — un narcótico, une substance qui fait dormir ou perdre ses
   forces
+- `un départ / manquer un départ` — una salida / perder una salida, arriver
+  après que le bateau ou le train est parti
+- `un désappointement` — una decepción, la tristesse causée par une chose qui
+  ne se passe pas comme prévu
+- `un dock / un avant-port` — un muelle comercial / la parte exterior de un
+  puerto
+- `fréter un bateau` — fletar un barco, payer pour utiliser tout le bateau
+  pendant un voyage
+- `appareiller` — zarpar, quitter le port et commencer un voyage en bateau
+- `un bateau-pilote` — una embarcación de práctico, un petit bateau rapide qui
+  guide normalement les grands navires
+- `un mille marin` — una milla náutica, une unité de distance utilisée en mer
+- `une prime / des arrhes` — una recompensa extra / un anticipo payé avant un
+  service
+- `un patron de bateau` — un capitán o dueño responsable d'un petit bateau
+- `une goélette` — una goleta, un bateau à voiles avec deux mâts ou plus
+- `un mât / une voile` — un mástil / una vela qui reçoit le vent et fait
+  avancer le bateau
+- `hisser les voiles` — izar las velas, les monter sur les mâts pour partir
+- `signaler la disparition de quelqu'un` — reportar la desaparición de alguien
+  auprès de la police
 
 ## Introduced phrases and grammar
 
@@ -355,6 +376,8 @@
   physiques
 - `pour tout l'or du monde` — por todo el oro del mundo, même pour une très
   grande récompense
+- `profiter d'une occasion` — aprovechar una oportunidad, utiliser une
+  situation favorable
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -552,6 +575,19 @@ the accusation, he refuses Fix's money and will not betray his generous
 master. Fix makes him drink more alcohol and gives him an opium pipe.
 Passepartout falls unconscious without warning Fogg about the earlier
 departure.
-Continue with Chapter XX at an early A2 level. Fogg and Aouda are still at the
-<i>Hôtel du Club</i>, unaware that the <i>Carnatic</i> will leave at eight
-that evening and that Passepartout is unconscious in a tavern.
+In Chapter XX, Fogg buys the clothes and objects Aouda needs for the journey,
+then spends the evening calmly reading while Passepartout remains absent. The
+next morning, Fogg and Aouda discover that the <i>Carnatic</i> left the
+previous evening. Fix pretends to share their disappointment and hopes the
+eight-day wait will give the arrest warrant time to arrive. Fogg instead
+searches the port for another ship. A sailor named John Bunsby refuses to take
+his small pilot boat, the <i>Tankadère</i>, all the way to Yokohama, but
+explains that the San Francisco steamer actually starts from Shanghaï. Fogg
+hires him to cover the eight hundred miles in four days and invites Fix to
+join them. Before leaving, Fogg reports Passepartout missing to the Hong-Kong
+police and the French consulate and leaves money for his return to Europe.
+Fogg, Aouda, and Fix sail at 3:10 p.m.; Passepartout does not appear because
+the narcotic still keeps him unconscious.
+Continue with Chapter XXI at an early A2 level. The <i>Tankadère</i> has just
+left Hong-Kong for Shanghaï with Fogg, Aouda, and Fix aboard. They must reach
+the American steamer before it leaves on November 11 at seven in the evening.
