@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XI completed
-- Completed sections: 11 of 37
-- Overall progress: 29.7%
-- Current complexity: A1, 29.7% toward B1
+- Current section: Chapter XII completed
+- Completed sections: 12 of 37
+- Overall progress: 32.4%
+- Current complexity: A1, 32.4% toward B1
 
 ## Introduced vocabulary
 
@@ -132,6 +132,24 @@
 - `un guide / un cornac` — un guía / une personne qui conduit et soigne un
   éléphant
 - `des vivres` — provisiones, de la nourriture préparée pour un voyage
+- `un raccourci` — un atajo, un chemin plus court que le chemin normal
+- `secouer` — sacudir, faire bouger rapidement dans plusieurs directions
+- `faire une halte` — hacer una parada, s'arrêter pendant un voyage pour se
+  reposer
+- `un bungalow` — un bungaló, une petite maison simple, généralement avec un
+  seul étage
+- `un rugissement` — un rugido, le cri fort d'un grand animal sauvage
+- `se cacher` — esconderse, aller dans un endroit où les autres ne peuvent pas
+  nous voir
+- `un prêtre / un brahmane` — un sacerdote / un sacerdote de la religion
+  hindoue
+- `une déesse` — una diosa, une divinité féminine
+- `un sacrifice` — un sacrificio, ici la mort d'une personne pendant une
+  cérémonie religieuse
+- `un cadavre` — un cadáver, le corps d'une personne morte
+- `une veuve` — una viuda, une femme dont le mari est mort
+- `brûler vif / vive` — quemar vivo / viva, tuer une personne par le feu
+- `volontaire` — voluntario, fait librement et sans obligation
 
 ## Introduced phrases and grammar
 
@@ -179,6 +197,10 @@
   propriétaire
 - `à califourchon` — a horcajadas, avec une jambe de chaque côté d'un animal
   ou d'un objet
+- `consacrer du temps à quelque chose` — dedicar tiempo a algo, utiliser son
+  temps pour cette chose
+- `avoir du coeur` — tener buen corazón, être généreux et vouloir aider les
+  autres
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -287,6 +309,16 @@ two-day advantage and buys the elephant Kiouni for the enormous price of two
 thousand pounds. A young Parsi guide prepares the elephant. Fogg, Sir Francis,
 Passepartout, and the guide leave Kholby at nine in the morning and enter the
 forest by the shortest route.
-Continue with Chapter XII at an early A1 level, moving gradually toward A2.
-The group travels through the Indian forest on Kiouni and encounters a
-religious procession involving a young woman named Aouda.
+In Chapter XII, the guide leads Kiouni through the forest and across the
+Vindhias by a direct route. The difficult ride exhausts Sir Francis and
+Passepartout, but Fogg remains calm. After a night in a ruined bungalow, the
+group continues toward Allahabad. Kiouni becomes uneasy when a religious
+procession approaches. Hidden among the trees, the travelers see priests,
+musicians, a statue of Kâli, a drugged young woman, and the body of her old
+husband, a rajah. Sir Francis and the Parsi explain that the woman will be
+burned with her husband's body at sunrise in a sutty. The guide says the
+sacrifice is not voluntary. Fogg decides to use twelve hours of his lead to
+try to save her.
+Continue with Chapter XIII at an early A1 level, moving gradually toward A2.
+Fogg, Sir Francis, Passepartout, and the Parsi guide attempt to rescue the
+young woman from the pagoda of Pillaji before sunrise.
