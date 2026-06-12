@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXI completed
-- Completed sections: 31 of 37
-- Overall progress: 83.8%
-- Current complexity: mid A2, 83.8% through the A1-to-B1 progression
+- Current section: Chapter XXXII completed
+- Completed sections: 32 of 37
+- Overall progress: 86.5%
+- Current complexity: mid A2, 86.5% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -436,9 +436,28 @@
 - `un affluent` — un afluente, une petite rivière qui se jette dans une
   rivière plus grande
 - `à destination de` — con destino a, qui va vers un lieu précis
+- `un navire de commerce` — un barco mercante, un bateau qui transporte
+  normalement des marchandises
+- `être amarré / être ancré` — estar amarrado al muelle / estar anclado dans
+  l'eau
+- `un canot / une rame` — un bote pequeño / un remo utilisé pour le faire
+  avancer
+- `une coque de fer` — un casco de hierro, la partie extérieure et solide
+  d'un navire
+- `une cargaison / du fret` — una carga / mercancías transportées par un
+  bateau
+- `partir sur lest` — navegar con lastre, partir sans cargaison mais avec du
+  poids pour stabiliser le bateau
+- `un nœud` — un nudo, une unité utilisée pour mesurer la vitesse d'un navire
+- `un armateur` — un armador, le propriétaire ou responsable commercial d'un
+  navire
+- `affréter un navire` — fletar un barco, payer pour utiliser le navire
+  pendant un voyage
 
 ## Introduced phrases and grammar
 
+- `ne pas faire de reproche` — no reprochar, ne pas critiquer une personne
+  pour son erreur
 - `barrer le passage` — bloquear el paso, empêcher une personne ou un
   véhicule d'avancer
 - `rattraper le temps perdu` — recuperar el tiempo perdido, aller plus vite
@@ -892,5 +911,18 @@ boards an eastbound train. They change trains in Chicago and race through
 several states toward New York. However, they arrive at the Hudson River
 terminal at 11:15 p.m. on December 11. The <i>China</i>, sailing for
 Liverpool, departed forty-five minutes earlier.
-Continue with Chapter XXXII at mid A2. Fogg, Aouda, Passepartout, and Fix are
-in New York after missing the <i>China</i> to Liverpool.
+In Chapter XXXII, Fogg studies the transatlantic schedules and discovers that
+no regular paquebot can take him to England in time. Passepartout blames
+himself for the delays, but Fogg makes no reproach. The next morning, Fogg
+searches New York harbor and boards the cargo steamer <i>Henrietta</i>.
+Its difficult owner and captain, Andrew Speedy, refuses to change his
+destination from Bordeaux to Liverpool and will neither rent nor sell the
+ship. Fogg then offers two thousand dollars per person for passage to
+Bordeaux. Speedy accepts the eight thousand dollars because he can keep his
+planned route. Fogg returns to the hotel and brings Aouda, Passepartout, and
+Fix aboard before the ship leaves at nine. Passepartout is shocked by the
+price, while Fix continues to calculate the suspected stolen money that Fogg
+is spending.
+Continue with Chapter XXXIII at mid-to-late A2. Fogg, Aouda, Passepartout,
+and Fix are aboard the <i>Henrietta</i>, sailing from New York toward
+Bordeaux under Captain Andrew Speedy.
