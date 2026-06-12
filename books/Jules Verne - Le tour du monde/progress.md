@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXII completed
-- Completed sections: 32 of 37
-- Overall progress: 86.5%
-- Current complexity: mid A2, 86.5% through the A1-to-B1 progression
+- Current section: Chapter XXXIII completed
+- Completed sections: 33 of 37
+- Overall progress: 89.2%
+- Current complexity: mid-to-late A2, 89.2% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -453,6 +453,25 @@
   navire
 - `affréter un navire` — fletar un barco, payer pour utiliser le navire
   pendant un voyage
+- `prendre le commandement` — tomar el mando, commencer à diriger un navire
+  ou un groupe
+- `un équipage / un matelot` — una tripulación / un marin qui travaille sur
+  un bateau
+- `faire le point` — determinar la posición d'un navire grâce à des
+  observations et des calculs
+- `enfermer à clef` — encerrar con llave, empêcher une personne de sortir
+  d'un lieu
+- `un ouragan` — un huracán, une tempête avec des vents extrêmement forts
+- `le tangage` — el cabeceo, le mouvement d'un bateau qui monte et descend
+  avec les vagues
+- `une hélice` — una hélice, la pièce qui tourne dans l'eau et fait avancer
+  un navire
+- `épuiser le combustible` — agotar el combustible, utiliser tout le charbon
+  ou le bois disponible
+- `une liasse de billets` — un fajo de billetes, plusieurs billets de banque
+  réunis
+- `la coque / la mâture` — el casco du bateau / el conjunto de sus mástiles
+- `démolir` — demoler, détruire une construction ou une partie d'un objet
 
 ## Introduced phrases and grammar
 
@@ -923,6 +942,15 @@ planned route. Fogg returns to the hotel and brings Aouda, Passepartout, and
 Fix aboard before the ship leaves at nine. Passepartout is shocked by the
 price, while Fix continues to calculate the suspected stolen money that Fogg
 is spending.
-Continue with Chapter XXXIII at mid-to-late A2. Fogg, Aouda, Passepartout,
-and Fix are aboard the <i>Henrietta</i>, sailing from New York toward
-Bordeaux under Captain Andrew Speedy.
+In Chapter XXXIII, Fogg wins the <i>Henrietta</i>'s crew with money, locks
+Captain Speedy in his cabin, and takes command of the ship toward Liverpool.
+Bad weather slows the crossing, and the engineer announces that the coal will
+run out. Fogg continues at full steam, then buys the ship from Speedy for
+sixty thousand dollars while leaving him the iron hull and engine. The crew
+burns the cabins, masts, and most of the wooden upper structure as fuel. Near
+Ireland, Fogg uses the faster Queenstown-Dublin-Liverpool mail route to gain
+twelve hours. He reaches Liverpool at 11:40 a.m. on December 21, only six
+hours from London, but Fix finally uses his warrant and arrests him.
+Continue with Chapter XXXIV at mid-to-late A2. Fogg has just been arrested by
+Fix on the Liverpool quay on December 21, with only a few hours remaining
+before the wager's deadline.
