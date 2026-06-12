@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter X completed
-- Completed sections: 10 of 37
-- Overall progress: 27.0%
-- Current complexity: A1, 27.0% toward B1
+- Current section: Chapter XI completed
+- Completed sections: 11 of 37
+- Overall progress: 29.7%
+- Current complexity: A1, 29.7% toward B1
 
 ## Introduced vocabulary
 
@@ -117,6 +117,21 @@
   rues
 - `être interdit` — estar prohibido, ne pas être permis
 - `pieds nus` — descalzo, sans chaussures ni chaussettes
+- `un compartiment` — un compartimiento, une partie d'un wagon où les
+  voyageurs s'installent
+- `un brigadier général` — un general de brigada, un officier important de
+  l'armée
+- `une coutume` — una costumbre, une manière de vivre propre à un peuple
+- `un viaduc` — un viaducto, un grand pont qui porte une route ou une voie
+  ferrée
+- `un palanquin / un poney` — un palanquín porté par des hommes / un caballo
+  pequeño
+- `une voie ferrée` — una vía férrea, les rails sur lesquels roule un train
+- `un hameau / une bourgade` — una aldea / un pueblo pequeño
+- `un éléphant / une monture` — un elefante / un animal utilisé pour voyager
+- `un guide / un cornac` — un guía / une personne qui conduit et soigne un
+  éléphant
+- `des vivres` — provisiones, de la nourriture préparée pour un voyage
 
 ## Introduced phrases and grammar
 
@@ -155,6 +170,15 @@
   s'enfuit
 - `en être quitte pour` — salir de una dificultad con seulement une petite
   perte
+- `subir une peine` — cumplir una pena, recevoir la punition décidée par la
+  justice
+- `être achevé` — estar terminado, être complètement fini
+- `prévoir un obstacle` — prever un obstáculo, penser avant le voyage qu'un
+  problème peut arriver
+- `louer / acheter` — alquilar pour un temps / comprar pour devenir
+  propriétaire
+- `à califourchon` — a horcajadas, avec une jambe de chaque côté d'un animal
+  ou d'un objet
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -250,7 +274,19 @@ priests attack him. He escapes after fighting back and reaches the station
 five minutes before departure, barefoot and without his purchases. Fogg
 calmly tells him not to repeat the mistake. Fix hears the story and stays in
 Bombay, believing the temple offense will help him arrest Fogg. The train
-leaves for Calcutta.
-Continue with Chapter XI at an early A1 level, moving gradually toward A2.
-The railway stops before Allahabad because the line is unfinished, and Fogg
-must find another way to continue the journey.
+leaves for Calcutta. In Chapter XI, Fogg and Passepartout share a train
+compartment with Sir Francis Cromarty, an experienced British general who
+knows India well. Fogg remains uninterested in the landscape and calmly
+discusses the possible legal consequences of Passepartout's temple offense.
+Passepartout begins to take the wager seriously and worries about every
+possible delay. His watch still shows London time, and he refuses to adjust
+it while traveling east. At Kholby, the passengers discover that the railway
+is unfinished for about fifty miles before Allahabad. Other travelers quickly
+take every available carriage, palanquin, and pony. Fogg uses part of his
+two-day advantage and buys the elephant Kiouni for the enormous price of two
+thousand pounds. A young Parsi guide prepares the elephant. Fogg, Sir Francis,
+Passepartout, and the guide leave Kholby at nine in the morning and enter the
+forest by the shortest route.
+Continue with Chapter XII at an early A1 level, moving gradually toward A2.
+The group travels through the Indian forest on Kiouni and encounters a
+religious procession involving a young woman named Aouda.
