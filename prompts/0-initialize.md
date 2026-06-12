@@ -39,7 +39,8 @@ The starting and ending levels, as well as the book language and the user's nati
 Let's also initialize the `sections.yaml` file. Add a list of sections that we will use to split the book into an
 appropriate number of chunks, each of which getting progressively harder than the one that came before. Usually, book
 chapters are a good chunking strategy, unless they are unusually short or long, in which case this file will define
-the chunks. You can use the table of contents, if the source book has it (e.g. a `toc.ncx` file).
+the chunks. You can use the table of contents, if the source book has it (e.g. a `toc.ncx` file). For each section,
+include the level of complexity according to the configuration (e.g. `complexity: early B1`).
 
 Also, initialize the `progress.md` file, which will contain the appropriate context to keep going with the book
 translation process. On each iteration, we will rewrite a section of the book, and this file will store information
