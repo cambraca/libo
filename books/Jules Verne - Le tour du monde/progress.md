@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter IX completed
-- Completed sections: 9 of 37
-- Overall progress: 24.3%
-- Current complexity: A1, 24.3% toward B1
+- Current section: Chapter X completed
+- Completed sections: 10 of 37
+- Overall progress: 27.0%
+- Current complexity: A1, 27.0% toward B1
 
 ## Introduced vocabulary
 
@@ -103,6 +103,20 @@
 - `à l'horizon` — en el horizonte, à la limite entre le ciel et la terre ou la
   mer
 - `accoster` — atracar, arriver contre le quai avec un bateau
+- `une domination / l'indépendance` — un dominio político / la libertad de
+  gouverner son propre pays
+- `un gouverneur` — un gobernador, une personne qui dirige une région
+- `une province / un territoire` — una provincia / un territorio, une partie
+  d'un pays
+- `un moyen de transport` — un medio de transporte, par exemple un train ou
+  un bateau
+- `un temple / une pagode` — un templo / un édifice religieux d'Asie
+- `sacré` — sagrado, très important pour une religion
+- `un ordre d'arrestation` — una orden de arresto donnée par une autorité
+- `une fête / une procession` — una fiesta / un défilé religieux dans les
+  rues
+- `être interdit` — estar prohibido, ne pas être permis
+- `pieds nus` — descalzo, sans chaussures ni chaussettes
 
 ## Introduced phrases and grammar
 
@@ -133,6 +147,14 @@
 - `une heure de gagnée` — una hora ganada, une heure d'avance sur le programme
 - `se lier avec quelqu'un` — hacerse amigo de alguien, créer une relation avec
   cette personne
+- `à vol d'oiseau` — en línea recta, sans suivre les routes
+- `prendre congé de quelqu'un` — despedirse de alguien avant de partir
+- `ne pas perdre quelqu'un de vue` — no perder de vista a alguien, continuer à
+  le surveiller
+- `se mettre à la poursuite de quelqu'un` — empezar a perseguir a alguien qui
+  s'enfuit
+- `en être quitte pour` — salir de una dificultad con seulement une petite
+  perte
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -215,7 +237,20 @@ of the shipping company. Fix deliberately becomes friendly with him. The ship
 passes Moka and stops at Aden for coal. Fogg gets another passport visa while
 Passepartout explores the city. The <i>Mongolia</i> then crosses the Indian
 Ocean in favorable weather and reaches Bombay on October 20, two days early.
-Fogg records the two gained days in his itinerary. Continue with Chapter X at
-an early A1 level, with gradually increasing sentence variety. Fogg and
-Passepartout arrive in Bombay, where Passepartout enters a temple without
-knowing the local rules.
+Fogg records the two gained days in his itinerary. In Chapter X, the narrator
+explains that Britain controls only part of India and describes the railway
+from Bombay to Calcutta. Fogg has only three and a half hours before the train
+leaves. He gets his passport stamped, ignores Bombay's monuments, and eats a
+suspicious « rabbit » dinner at the station. Fix learns that the arrest
+warrant has not arrived and cannot legally have Fogg arrested without it.
+Passepartout buys clothes and explores a crowded Parsi religious festival. On
+his way back, he enters the Malebar-Hill temple without knowing that
+Christians are forbidden and that visitors must remove their shoes. Three
+priests attack him. He escapes after fighting back and reaches the station
+five minutes before departure, barefoot and without his purchases. Fogg
+calmly tells him not to repeat the mistake. Fix hears the story and stays in
+Bombay, believing the temple offense will help him arrest Fogg. The train
+leaves for Calcutta.
+Continue with Chapter XI at an early A1 level, moving gradually toward A2.
+The railway stops before Allahabad because the line is unfinished, and Fogg
+must find another way to continue the journey.
