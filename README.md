@@ -22,3 +22,9 @@
    ```shell
    codex exec "Run the verify prompt for the book \"Le tour du monde\". Only inspect files under the current directory."
    ```
+
+6. Create the final .epub book.
+
+   ```shell
+   ./scripts/create-epub.sh "Jules Verne - Le tour du monde"
+   ```
