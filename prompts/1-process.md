@@ -12,7 +12,8 @@ Do not read much more than what's relevant (e.g. the entire source book), althou
 previous section, so that the text flows naturally.
 
 Before writing the content, identify vocabulary and phrases that may be hard for the reader, and add a block with those
-things. You can use definition lists (dd, dt, dl tags in HTML) inside an `aside` tag, which should be clearly styled.
+things. You can use definition lists (dd, dt, dl tags in HTML) inside an `aside` tag, for which we added styles in the
+initialization stage.
 
 After the section text is written, record the progress (progress.md) so that the next iteration knows where to continue.
 Clearly specify when the book is all done, so that if we run this again, it doesn't do anything.
