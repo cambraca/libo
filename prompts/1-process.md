@@ -16,3 +16,6 @@ things. You can use definition lists (dd, dt, dl tags in HTML) inside an `aside`
 
 After the section text is written, record the progress (progress.md) so that the next iteration knows where to continue.
 Clearly specify when the book is all done, so that if we run this again, it doesn't do anything.
+
+Do not build the target.epub file. Only modify the text in the `target/` directory, and the `progress.md`. Only touch
+`sections.yaml` if absolutely necessary.
