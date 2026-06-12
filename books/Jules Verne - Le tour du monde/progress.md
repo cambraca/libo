@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXIX completed
-- Completed sections: 29 of 37
-- Overall progress: 78.4%
-- Current complexity: early-to-mid A2, 78.4% through the A1-to-B1 progression
+- Current section: Chapter XXX completed
+- Completed sections: 30 of 37
+- Overall progress: 81.1%
+- Current complexity: mid A2, 81.1% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -408,6 +408,19 @@
 - `détacher` — desenganchar o separar une chose qui était fixée à une autre
 - `un dévouement` — una entrega valiente, le fait de risquer beaucoup pour
   aider les autres
+- `grièvement blessé` — gravemente herido, avec une blessure sérieuse
+- `une égratignure` — un rasguño, une petite blessure sur la peau
+- `arracher quelqu'un à ses ennemis` — rescatar a alguien de sus enemigos,
+  le libérer par la force
+- `un détachement / un sergent` — un destacamento de soldados / un sargento
+  qui dirige un petit groupe
+- `s'évanouir` — desmayarse, perdre connaissance pendant un moment
+- `le combustible / un foyer` — el combustible / el lugar donde se brûle le
+  charbon ou le bois
+- `une rafale` — una ráfaga, un vent fort et soudain
+- `transi de froid` — helado de frío, très froid après être resté dehors
+- `faire une reconnaissance` — hacer una exploración militaire pour observer
+  une région
 
 ## Introduced phrases and grammar
 
@@ -842,5 +855,17 @@ must stop before passing Fort Kearney. Passepartout climbs beneath the moving
 wagons, separates them from the locomotive, and allows the passengers to
 brake near the fort. The Sioux flee when the soldiers arrive, but
 Passepartout and several other passengers are missing.
-Continue with Chapter XXX at mid A2. The train is stopped near Fort Kearney
-after the Sioux attack, and Passepartout has disappeared.
+In Chapter XXX, Fogg decides that it is his duty to rescue Passepartout and
+the two other missing travelers, even though the delay will probably cost him
+his wager. When the captain of Fort Kearney hesitates to pursue the Sioux,
+Fogg prepares to go alone; his courage persuades the captain to send thirty
+soldiers under a sergeant. Fogg asks Fix to remain with Aouda. While the
+rescue party is away, the detached locomotive returns to Kearney with its
+engineer and fireman, and the original train prepares to continue east.
+Aouda refuses to leave without Fogg, and Fix also remains. They wait through
+an anxious, freezing night. At dawn, Fogg and the soldiers return with all
+three prisoners after a fight ten miles south of the fort. Passepartout is
+safe, but the train has gone and the next one will not arrive until that
+evening.
+Continue with Chapter XXXI at mid A2. Fogg, Aouda, Passepartout, and Fix are
+at Fort Kearney after missing the eastbound train.
