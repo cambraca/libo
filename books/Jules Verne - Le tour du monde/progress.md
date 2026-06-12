@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXVII completed
-- Completed sections: 27 of 37
-- Overall progress: 73.0%
-- Current complexity: early A2, 73.0% through the A1-to-B1 progression
+- Current section: Chapter XXVIII completed
+- Completed sections: 28 of 37
+- Overall progress: 75.7%
+- Current complexity: early-to-mid A2, 75.7% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -381,6 +381,20 @@
   surface et le fond
 - `une couche de neige` — una capa de nieve qui couvre le sol
 - `une scène de ménage` — una pelea de pareja ou de famille
+- `un massif montagneux / un tunnel` — un macizo montañoso / un túnel creusé
+  sous la montagne
+- `le partage des eaux` — la divisoria de aguas, le lieu où les rivières
+  partent vers des océans différents
+- `un adversaire / se venger` — un adversario / vengarse après avoir reçu une
+  offense
+- `un jeu de cartes / un partenaire` — un juego de cartas / un compañero de
+  juego
+- `un signal rouge / fermer la voie` — una señal roja / cerrar la vía et
+  interdire le passage du train
+- `un pont suspendu / menacer de s'écrouler` — un puente colgante / estar a
+  punto de derrumbarse
+- `une rive / un rapide` — una orilla / una partie d'une rivière où l'eau
+  coule très vite
 
 ## Introduced phrases and grammar
 
@@ -390,6 +404,10 @@
   après un retard
 - `à perdre haleine / essoufflé` — corriendo con todas sus fuerzas / sin
   aliento après un grand effort
+- `éviter une rencontre` — evitar un encuentro entre des personnes
+- `reculer / prendre son élan` — retroceder / tomar impulso avant d'avancer
+  très vite
+- `à toute vitesse` — a toda velocidad, aussi rapidement que possible
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -789,5 +807,16 @@ straight streets, buildings, and Mormon families. As their train leaves, a
 Mormon man runs after it and jumps aboard. He is fleeing a domestic argument.
 Passepartout asks how many wives he has; the man answers that one is already
 enough.
-Continue with Chapter XXVIII at early A2, moving gradually toward mid A2. The
-train has left Ogden after the short visit to Salt Lake City.
+In Chapter XXVIII, the train crosses the difficult mountain region between
+Ogden and Wyoming while Passepartout and Fix worry about possible delays.
+At Green River, Aouda recognizes Colonel Stamp W. Proctor, who insulted Fogg
+in San Francisco. She, Fix, and Passepartout decide to prevent the two men
+from meeting. Fix starts a game of whist with Fogg and Aouda to keep Fogg in
+the compartment. Later, the train stops before the damaged suspension bridge
+at Medicine Bow. Although the bridge may collapse, the engineer proposes
+crossing it at maximum speed. Passepartout tries unsuccessfully to suggest
+that the passengers should cross on foot before the empty train. The train
+takes a long run-up, races over the bridge, and reaches the other side. The
+bridge falls into the river immediately afterward.
+Continue with Chapter XXIX at early-to-mid A2. The train has crossed the
+Medicine Bow bridge, and Colonel Proctor is still aboard.
