@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXV completed
-- Completed sections: 35 of 37
-- Overall progress: 94.6%
-- Current complexity: late A2, 94.6% through the A1-to-B1 progression
+- Current section: Chapter XXXVI completed
+- Completed sections: 36 of 37
+- Overall progress: 97.3%
+- Current complexity: late A2, 97.3% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -500,6 +500,22 @@
   et sans proches
 - `un révérend / une paroisse` — un reverendo, ministre religieux / una
   parroquia, le territoire et la communauté dont il s'occupe
+- `un revirement de l'opinion` — un cambio de opinión, une transformation
+  complète de ce que les gens pensent
+- `une transaction / un engagement` — una operación financiera / un
+  compromiso ou une promesse à respecter
+- `succomber` — sucumbir, mourir ou être vaincu par une grande difficulté
+- `une fausse piste` — una pista falsa, une direction qui éloigne de la
+  vérité
+- `une cote` — una cotización, le chiffre qui indique les chances d'un
+  résultat dans un pari
+- `un attroupement` — una aglomeración, un grand groupe de personnes réunies
+  dans la rue
+- `un délai` — un plazo, la période accordée pour terminer une action
+- `inévitable` — inevitable, qu'on ne peut pas empêcher
+- `un brouhaha` — un ruido confuso produit par beaucoup de voix en même temps
+- `un balancier` — un péndulo, la pièce d'une horloge qui bouge régulièrement
+  de droite à gauche
 
 ## Introduced phrases and grammar
 
@@ -529,6 +545,14 @@
   prendre des mesures pour assurer son avenir
 - `porter une somme au crédit de quelqu'un` — abonar una suma a la cuenta de
   alguien
+- `poursuivre quelqu'un à outrance` — perseguir a alguien sin descanso, avec
+  tous les moyens possibles
+- `faire prime sur le marché` — tener una cotización muy alta, devenir très
+  recherché dans les paris ou les affaires
+- `renoncer à quelque chose` — renunciar a algo, décider de ne plus continuer
+- `figurer sur une liste` — aparecer en una lista, y avoir son nom écrit
+- `être en délire` — estar eufórico, montrer une joie et une excitation
+  extrêmes
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -1011,6 +1035,15 @@ Aouda answers that she may have contributed to his ruin, then asks whether he
 wants her as both family and friend: she proposes marriage. Fogg declares
 that he loves her. They agree to marry on Monday, and Passepartout runs to
 notify the Reverend Samuel Wilson.
-Continue with Chapter XXXVI at late A2. Passepartout has just left the
-Saville-row house at 8:05 p.m. on Sunday to arrange Fogg and Aouda's marriage
-for the next day.
+In Chapter XXXVI, news that James Strand is the real bank robber completely
+changes British public opinion about Fogg. Newspapers and bettors become
+excited again, while Fogg's five Reform-Club colleagues anxiously wonder
+whether he can still return by the deadline. On Saturday evening, a huge
+crowd gathers around the club. The five men study train arrivals and the
+<i>China</i>'s passenger list, then conclude that Fogg must still be in
+America. As the clock approaches 8:45 p.m., they stop playing cards and count
+the final seconds. At 8:44 and 57 seconds, the door opens. Fogg enters before
+the deadline, followed by an excited crowd, and calmly says that he is there.
+Continue with Chapter XXXVII at B1. Phileas Fogg has appeared in the
+Reform-Club salon just before 8:45 p.m. on Saturday, although the previous
+chapter showed him at home on Sunday evening arranging his marriage.
