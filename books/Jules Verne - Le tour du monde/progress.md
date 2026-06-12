@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XVIII completed
-- Completed sections: 18 of 37
-- Overall progress: 48.6%
-- Current complexity: early A2, 48.6% through the A1-to-B1 progression
+- Current section: Chapter XIX completed
+- Completed sections: 19 of 37
+- Overall progress: 51.4%
+- Current complexity: early A2, 51.4% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -246,6 +246,22 @@
   des objets
 - `un courtier` — un corredor o agente qui met en relation des personnes pour
   des affaires
+- `un îlot / une embouchure` — un islote / una desembocadura, le lieu où un
+  fleuve arrive dans la mer
+- `un quai d'embarquement` — un muelle de embarque, le lieu où les passagers
+  montent dans un bateau
+- `une taverne` — una taberna, un lieu simple où l'on peut boire
+- `l'opium` — el opio, une drogue dangereuse que certaines personnes fumaient
+- `l'ivresse` — la embriaguez, l'état d'une personne qui a bu trop d'alcool
+- `trahir quelqu'un` — traicionar a alguien, agir contre une personne qui nous
+  fait confiance
+- `une commission de police` — una credencial policial, un document qui prouve
+  qu'une personne travaille pour la police
+- `un prétexte` — un pretexto, une fausse raison utilisée pour cacher la vraie
+  raison
+- `la culpabilité` — la culpabilidad, le fait d'être responsable d'un crime
+- `un narcotique` — un narcótico, une substance qui fait dormir ou perdre ses
+  forces
 
 ## Introduced phrases and grammar
 
@@ -332,6 +348,13 @@
 - `regagner le temps perdu` — recuperar el tiempo perdido, aller plus vite
   après un retard
 - `retenir une cabine` — reservar un camarote dans un bateau
+- `de long en large` — de un lado a otro, en marchant plusieurs fois dans les
+  deux directions
+- `à tout prix` — a toda costa, en faisant tout ce qui est nécessaire
+- `trait pour trait` — rasgo por rasgo, avec exactement les mêmes détails
+  physiques
+- `pour tout l'or du monde` — por todo el oro del mundo, même pour une très
+  grande récompense
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -519,6 +542,16 @@ Hong-Kong, Fogg searches for Aouda's wealthy relative Jejeeh but discovers
 that he moved to Europe two years earlier. Fogg simply invites Aouda to
 continue to Europe with him and sends Passepartout to reserve three cabins on
 the <i>Carnatic</i>.
-Continue with Chapter XIX at an early A2 level. Passepartout has left the
-<i>Hôtel du Club</i> to reserve three cabins on the <i>Carnatic</i>, which is
-scheduled to leave Hong-Kong at five the next morning.
+In Chapter XIX, Passepartout goes to the port and meets Fix while reserving
+cabins on the <i>Carnatic</i>. They learn that the repaired ship will now
+leave that evening at eight instead of the next morning. Fix takes
+Passepartout to an opium tavern and reveals that he is a police detective who
+suspects Fogg of the Bank of England robbery. Passepartout had believed Fix
+was an agent sent by the Reform-Club to observe the wager. Although shaken by
+the accusation, he refuses Fix's money and will not betray his generous
+master. Fix makes him drink more alcohol and gives him an opium pipe.
+Passepartout falls unconscious without warning Fogg about the earlier
+departure.
+Continue with Chapter XX at an early A2 level. Fogg and Aouda are still at the
+<i>Hôtel du Club</i>, unaware that the <i>Carnatic</i> will leave at eight
+that evening and that Passepartout is unconscious in a tavern.
