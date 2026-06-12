@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XX completed
-- Completed sections: 20 of 37
-- Overall progress: 54.1%
-- Current complexity: early A2, 54.1% through the A1-to-B1 progression
+- Current section: Chapter XXI completed
+- Completed sections: 21 of 37
+- Overall progress: 56.8%
+- Current complexity: early A2, 56.8% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -283,6 +283,23 @@
 - `hisser les voiles` — izar las velas, les monter sur les mâts pour partir
 - `signaler la disparition de quelqu'un` — reportar la desaparición de alguien
   auprès de la police
+- `une expédition` — una expedición, un voyage organisé qui peut être long ou
+  dangereux
+- `fragile` — frágil, qui peut facilement se casser ou être endommagé
+- `un feu de position` — una luz de navegación qui permet de voir un bateau
+  pendant la nuit
+- `un choc` — un choque, le contact violent entre deux objets
+- `un malentendu` — un malentendido, une situation où des personnes ne
+  comprennent pas la même chose
+- `un typhon` — un tifón, une très forte tempête tropicale avec beaucoup de
+  vent
+- `chavirer` — volcar, se retourner dans l'eau pour un bateau
+- `une accalmie` — una calma temporal, un moment où le vent et la mer
+  deviennent moins violents
+- `un signal de détresse` — una señal de socorro, un signe utilisé pour
+  demander une aide urgente
+- `un pavillon en berne` — una bandera a media asta, ici un signal pour
+  montrer qu'un bateau est en difficulté
 
 ## Introduced phrases and grammar
 
@@ -378,6 +395,10 @@
   grande récompense
 - `profiter d'une occasion` — aprovechar una oportunidad, utiliser une
   situation favorable
+- `mettre sa confiance en quelqu'un` — poner su confianza en alguien, croire
+  que cette personne fera bien son travail
+- `tenir bon` — resistir, continuer malgré une situation difficile ou
+  dangereuse
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -588,6 +609,17 @@ join them. Before leaving, Fogg reports Passepartout missing to the Hong-Kong
 police and the French consulate and leaves money for his return to Europe.
 Fogg, Aouda, and Fix sail at 3:10 p.m.; Passepartout does not appear because
 the narcotic still keeps him unconscious.
-Continue with Chapter XXI at an early A2 level. The <i>Tankadère</i> has just
-left Hong-Kong for Shanghaï with Fogg, Aouda, and Fix aboard. They must reach
-the American steamer before it leaves on November 11 at seven in the evening.
+In Chapter XXI, the <i>Tankadère</i> travels north from Hong-Kong toward
+Shanghaï. Fogg trusts John Bunsby's skill, while Fix continues to imagine
+Fogg's escape to America and is relieved that Passepartout is absent. Fogg
+and Aouda hope the servant boarded the <i>Carnatic</i> by mistake and can be
+found in Yokohama. After a fast first day, a typhoon strikes in the Fo-Kien
+Strait. Bunsby prepares the small boat, and Fogg, Aouda, and Fix remain on
+deck through the violent storm. When Bunsby suggests seeking a port, Fogg
+insists that it must be Shanghaï. The strong boat survives the night, and the
+weather improves on November 10. On November 11, weakening winds leave the
+<i>Tankadère</i> three miles from Shanghaï at seven in the evening, just as
+the American steamer departs. Fogg orders the crew to lower the flag as a
+distress signal and fire the small cannon to attract the steamer's attention.
+Continue with Chapter XXII at an early A2 level. The cannon has just been
+fired from the <i>Tankadère</i> as the American steamer leaves Shanghaï.
