@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXIV completed
-- Completed sections: 24 of 37
-- Overall progress: 64.9%
-- Current complexity: early A2, 64.9% through the A1-to-B1 progression
+- Current section: Chapter XXV completed
+- Completed sections: 25 of 37
+- Overall progress: 67.6%
+- Current complexity: early A2, 67.6% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -333,6 +333,23 @@
 - `un adversaire` — un adversario, une personne contre laquelle on lutte
 - `écarter un obstacle` — apartar un obstáculo, supprimer un problème qui
   bloque le chemin
+- `un quai flottant / la marée` — un muelle flotante / la marea qui fait
+  monter et descendre la mer
+- `charger / décharger un navire` — cargar / descargar un barco, mettre ou
+  retirer ses marchandises
+- `un saut périlleux` — un salto mortal, un saut où le corps tourne dans l'air
+- `un tramway / un trottoir` — un tranvía / una acera pour les personnes qui
+  marchent
+- `une foule / une cohue` — una multitud / una multitud désordonnée où il est
+  difficile de bouger
+- `une bannière` — una pancarta o bandera portée par un groupe
+- `une élection / un électeur` — una elección / un votante qui choisit une
+  personne pour une fonction
+- `une bagarre` — una pelea avec plusieurs personnes
+- `un coup de poing` — un puñetazo, un coup donné avec la main fermée
+- `être en lambeaux` — estar hecho jirones, être très déchiré
+- `un juge de paix` — un juez de paz, un juge local qui traite des affaires
+  simples
 
 ## Introduced phrases and grammar
 
@@ -438,6 +455,9 @@
 - `faire route pour` — dirigirse hacia, voyager en direction d'un lieu
 - `se trouver face à face` — encontrarse cara a cara, rencontrer directement
   une personne
+- `tenir sa parole` — cumplir su palabra, faire ce qu'on a promis
+- `défendre son honneur` — defender su honor, agir pour ne pas accepter une
+  humiliation
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -694,6 +714,19 @@ territory, so he plans to help Fogg reach England and arrest him there.
 Passepartout finds Fix, beats him, then listens as the detective admits every
 obstacle he created. They agree to act as cautious allies. The ship reaches
 San Francisco on December 3, with Fogg exactly on schedule.
-Continue with Chapter XXV at an early A2 level. Fogg, Aouda, Passepartout,
-and Fix have arrived in San Francisco, and Fogg has neither gained nor lost
-any time.
+In Chapter XXV, Fogg, Aouda, and Passepartout arrive in San Francisco early
+in the morning and learn that their train for New York leaves at six in the
+evening. They observe the modern commercial city and eat at the
+International-Hotel. Fogg and Aouda then meet Fix, who pretends that their
+meeting is accidental and joins them. In Montgommery-street, an election
+meeting for Kamerfield and Mandiboy turns into a violent fight. Fogg, Aouda,
+and Fix are trapped between the two groups. Fix protects Fogg from a punch by
+the red-bearded Colonel Stamp W. Proctor. Fogg and Proctor exchange names and
+promise to meet again. After buying new clothes, the travelers return to the
+hotel, where Passepartout accepts that Fix has acted as an ally. They reach
+the station at 5:45 p.m. Fogg discovers that the violent election concerned
+only the position of justice of the peace, then boards the train for New
+York.
+Continue with Chapter XXVI at an early A2 level. Fogg, Aouda, Passepartout,
+and Fix have boarded the Pacific Railroad train from San Francisco to New
+York.
