@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXX completed
-- Completed sections: 30 of 37
-- Overall progress: 81.1%
-- Current complexity: mid A2, 81.1% through the A1-to-B1 progression
+- Current section: Chapter XXXI completed
+- Completed sections: 31 of 37
+- Overall progress: 83.8%
+- Current complexity: mid A2, 83.8% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -421,6 +421,21 @@
 - `transi de froid` — helado de frío, très froid après être resté dehors
 - `faire une reconnaissance` — hacer una exploración militaire pour observer
   une région
+- `un traîneau à voiles` — un trineo con velas, un véhicule qui glisse sur
+  la neige grâce au vent
+- `un châssis / une poutre` — un armazón / una viga qui soutient une
+  construction
+- `un mât / un gouvernail` — un mástil qui porte les voiles / un timón qui
+  permet de diriger
+- `hisser / amener les voiles` — izar / bajar las velas d'un véhicule ou
+  d'un bateau
+- `une avarie` — una avería, un dommage qui empêche un véhicule de bien
+  fonctionner
+- `une fourrure` — una piel con pelo utilisée comme vêtement contre le froid
+- `engourdi` — entumecido, presque incapable de bouger à cause du froid
+- `un affluent` — un afluente, une petite rivière qui se jette dans une
+  rivière plus grande
+- `à destination de` — con destino a, qui va vers un lieu précis
 
 ## Introduced phrases and grammar
 
@@ -867,5 +882,15 @@ an anxious, freezing night. At dawn, Fogg and the soldiers return with all
 three prisoners after a fight ten miles south of the fort. Passepartout is
 safe, but the train has gone and the next one will not arrive until that
 evening.
-Continue with Chapter XXXI at mid A2. Fogg, Aouda, Passepartout, and Fix are
-at Fort Kearney after missing the eastbound train.
+In Chapter XXXI, Fix finds a way to reduce Fogg's delay: Mudge's wind-powered
+sled can cross the frozen prairie directly from Fort Kearney to Omaha. Aouda
+refuses Fogg's suggestion that she remain behind, and Passepartout also stays
+with his master. Driven by a strong west wind, the sled travels about forty
+miles per hour across the snowy plain while hungry wolves pursue it. The
+group reaches Omaha shortly before one in the afternoon and immediately
+boards an eastbound train. They change trains in Chicago and race through
+several states toward New York. However, they arrive at the Hudson River
+terminal at 11:15 p.m. on December 11. The <i>China</i>, sailing for
+Liverpool, departed forty-five minutes earlier.
+Continue with Chapter XXXII at mid A2. Fogg, Aouda, Passepartout, and Fix are
+in New York after missing the <i>China</i> to Liverpool.
