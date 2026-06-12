@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXXIII completed
-- Completed sections: 33 of 37
-- Overall progress: 89.2%
-- Current complexity: mid-to-late A2, 89.2% through the A1-to-B1 progression
+- Current section: Chapter XXXIV completed
+- Completed sections: 34 of 37
+- Overall progress: 91.9%
+- Current complexity: mid-to-late A2, 91.9% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -472,6 +472,20 @@
   réunis
 - `la coque / la mâture` — el casco du bateau / el conjunto de sus mástiles
 - `démolir` — demoler, détruire une construction ou une partie d'un objet
+- `un poste de douane` — un puesto de aduana, un bureau où les autorités
+  contrôlent les personnes et les marchandises
+- `un transfèrement` — un traslado de un prisionero vers un autre lieu
+- `une allégation` — una acusación qui n'est pas encore prouvée
+- `éprouver des remords` — sentir remordimiento, souffrir parce qu'on regrette
+  une faute
+- `être ruiné` — estar arruinado, avoir perdu tout ou presque tout son argent
+- `imperturbable` — imperturbable, qui reste parfaitement calme malgré les
+  événements
+- `des barreaux` — barrotes de métal qui empêchent de passer par une fenêtre
+- `une ressemblance` — un parecido entre deux personnes ou deux choses
+- `un train spécial` — un tren especial organisé pour un voyage précis, en
+  dehors du service normal
+- `un mécanicien` — un maquinista, la personne qui conduit une locomotive
 
 ## Introduced phrases and grammar
 
@@ -487,6 +501,10 @@
 - `reculer / prendre son élan` — retroceder / tomar impulso avant d'avancer
   très vite
 - `à toute vitesse` — a toda velocidad, aussi rapidement que possible
+- `être hors d'haleine` — estar sin aliento après avoir couru ou fait un grand
+  effort
+- `avoir perdu son pari` — haber perdido su apuesta, ne pas avoir réalisé la
+  condition annoncée
 
 - `avoir besoin de` — necesitar
 - `être au service de quelqu'un` — trabajar para alguien
@@ -951,6 +969,13 @@ burns the cabins, masts, and most of the wooden upper structure as fuel. Near
 Ireland, Fogg uses the faster Queenstown-Dublin-Liverpool mail route to gain
 twelve hours. He reaches Liverpool at 11:40 a.m. on December 21, only six
 hours from London, but Fix finally uses his warrant and arrests him.
-Continue with Chapter XXXIV at mid-to-late A2. Fogg has just been arrested by
-Fix on the Liverpool quay on December 21, with only a few hours remaining
-before the wager's deadline.
+In Chapter XXXIV, Fogg waits calmly in the Liverpool customs jail while Aouda
+and Passepartout remain outside in distress. Passepartout blames himself for
+not warning his master about Fix. At 2:33 p.m., Fix returns and announces that
+the real bank robber was arrested three days earlier. Fogg is released and
+punches the detective. The regular London express has already departed, so
+Fogg hires a special train and offers its driver a reward for speed. Forced
+delays prevent success: he reaches London at 8:50 p.m., apparently five
+minutes too late for the Reform-Club deadline.
+Continue with Chapter XXXV at late A2. Fogg, Aouda, and Passepartout have just
+arrived in London believing that the wager has been lost by five minutes.
