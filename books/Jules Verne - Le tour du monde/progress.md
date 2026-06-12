@@ -4,10 +4,10 @@
 - Target language: French (`fr`)
 - Starting level: A1
 - Ending level: B1
-- Current section: Chapter XXIII completed
-- Completed sections: 23 of 37
-- Overall progress: 62.2%
-- Current complexity: early A2, 62.2% through the A1-to-B1 progression
+- Current section: Chapter XXIV completed
+- Completed sections: 24 of 37
+- Overall progress: 64.9%
+- Current complexity: early A2, 64.9% through the A1-to-B1 progression
 
 ## Introduced vocabulary
 
@@ -318,6 +318,21 @@
 - `s'écrouler` — derrumbarse, tomber complètement
 - `des dommages-intérêts` — una indemnización, de l'argent demandé pour
   réparer un dommage
+- `un pressentiment` — un presentimiento, l'impression qu'une chose va arriver
+- `un méridien` — un meridiano, une ligne imaginaire qui va du nord au sud
+  sur la Terre
+- `un hémisphère` — un hemisferio, une moitié de la Terre
+- `les antipodes` — las antípodas, un lieu situé exactement de l'autre côté
+  de la Terre
+- `un cadran / une aiguille` — una esfera de reloj / una manecilla qui indique
+  l'heure
+- `rancunier` — rencoroso, qui reste en colère après une mauvaise action
+- `dépister la police` — despistar a la policía, faire perdre sa trace aux
+  policiers
+- `rosser quelqu'un` — darle una paliza a alguien, le frapper plusieurs fois
+- `un adversaire` — un adversario, une personne contre laquelle on lutte
+- `écarter un obstacle` — apartar un obstáculo, supprimer un problème qui
+  bloque le chemin
 
 ## Introduced phrases and grammar
 
@@ -420,6 +435,9 @@
 - `reprendre son sang-froid` — recuperar la calma après une forte émotion
 - `avoir la poche vide` — no tener dinero disponible
 - `trouver un moyen de` — encontrar una manera de faire quelque chose
+- `faire route pour` — dirigirse hacia, voyager en direction d'un lieu
+- `se trouver face à face` — encontrarse cara a cara, rencontrer directement
+  une personne
 - Basic present-tense descriptions with `être`, `avoir`, and regular verbs
 - Simple negation with `ne ... pas`
 - Questions with `est-ce que` and `quel/quelle`
@@ -664,7 +682,18 @@ pyramid. During the performance, Passepartout recognizes Fogg in the
 audience, abandons his position, and makes the pyramid collapse. Fogg pays
 Batulcar for the damage. Fogg, Aouda, and Passepartout then board the
 American steamer at 6:30 p.m., while Passepartout still wears his wings and
-long false nose.
-Continue with Chapter XXIV at an early A2 level. Fogg, Aouda, and
-Passepartout have reunited and are aboard the American steamer bound across
-the Pacific.
+long false nose. In Chapter XXIV, Aouda explains to Passepartout how Fogg
+found him in Yokohama, while Passepartout hides Fix's actions from his master.
+The <i>General-Grant</i> crosses the Pacific without difficulty. Aouda's
+feelings for Fogg grow, and Passepartout confidently tells her that the
+hardest part of the journey is over. On November 23, the ship crosses the
+180th meridian. Passepartout's unchanged watch again agrees with local time,
+although he does not understand the twelve-hour difference. Fix is secretly
+aboard: his arrest warrant arrived too late to be used outside British
+territory, so he plans to help Fogg reach England and arrest him there.
+Passepartout finds Fix, beats him, then listens as the detective admits every
+obstacle he created. They agree to act as cautious allies. The ship reaches
+San Francisco on December 3, with Fogg exactly on schedule.
+Continue with Chapter XXV at an early A2 level. Fogg, Aouda, Passepartout,
+and Fix have arrived in San Francisco, and Fogg has neither gained nor lost
+any time.
