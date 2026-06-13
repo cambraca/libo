@@ -1,0 +1,15 @@
+services:
+  epub2tts:
+    build:
+      context: .
+      dockerfile: docker/epub2tts-edge.Dockerfile
+    image: libo-epub2tts-edge
+    entrypoint: ["/usr/local/bin/create-audiobook"]
+    environment:
+      HOME: /tmp
+      TTS_SPEAKER: ${TTS_SPEAKER:-fr-FR-HenriNeural}
+      TTS_THREADS: ${TTS_THREADS:-4}
+    user: "${UID:-1000}:${GID:-1000}"
+    volumes:
+      - ./books:/books
+      - ./scripts/create-audiobook.sh:/usr/local/bin/create-audiobook:ro
