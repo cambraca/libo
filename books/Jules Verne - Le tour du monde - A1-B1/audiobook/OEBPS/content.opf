@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" version="3.0" unique-identifier="book-id" xml:lang="fr">
+  <metadata>
+    <dc:identifier id="book-id">urn:uuid:libo-le-tour-du-monde-audiobook</dc:identifier>
+    <dc:title>Le tour du monde en quatre-vingts jours</dc:title>
+    <dc:creator>Jules Verne</dc:creator>
+    <dc:language>fr</dc:language>
+    <meta property="dcterms:modified">2026-06-13T00:00:00Z</meta>
+  </metadata>
+  <manifest>
+    <item id="css" href="0.css" media-type="text/css"/>
+    <item id="nav" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="chapter-01" href="chapter-01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-02" href="chapter-02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-03" href="chapter-03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-04" href="chapter-04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-05" href="chapter-05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-06" href="chapter-06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-07" href="chapter-07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-08" href="chapter-08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-09" href="chapter-09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-10" href="chapter-10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-11" href="chapter-11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-12" href="chapter-12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-13" href="chapter-13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-14" href="chapter-14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-15" href="chapter-15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-16" href="chapter-16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-17" href="chapter-17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-18" href="chapter-18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-19" href="chapter-19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-20" href="chapter-20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-21" href="chapter-21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-22" href="chapter-22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-23" href="chapter-23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-24" href="chapter-24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-25" href="chapter-25.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-26" href="chapter-26.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-27" href="chapter-27.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-28" href="chapter-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-29" href="chapter-29.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-30" href="chapter-30.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-31" href="chapter-31.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-32" href="chapter-32.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-33" href="chapter-33.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-34" href="chapter-34.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-35" href="chapter-35.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-36" href="chapter-36.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter-37" href="chapter-37.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="chapter-01"/>
+    <itemref idref="chapter-02"/>
+    <itemref idref="chapter-03"/>
+    <itemref idref="chapter-04"/>
+    <itemref idref="chapter-05"/>
+    <itemref idref="chapter-06"/>
+    <itemref idref="chapter-07"/>
+    <itemref idref="chapter-08"/>
+    <itemref idref="chapter-09"/>
+    <itemref idref="chapter-10"/>
+    <itemref idref="chapter-11"/>
+    <itemref idref="chapter-12"/>
+    <itemref idref="chapter-13"/>
+    <itemref idref="chapter-14"/>
+    <itemref idref="chapter-15"/>
+    <itemref idref="chapter-16"/>
+    <itemref idref="chapter-17"/>
+    <itemref idref="chapter-18"/>
+    <itemref idref="chapter-19"/>
+    <itemref idref="chapter-20"/>
+    <itemref idref="chapter-21"/>
+    <itemref idref="chapter-22"/>
+    <itemref idref="chapter-23"/>
+    <itemref idref="chapter-24"/>
+    <itemref idref="chapter-25"/>
+    <itemref idref="chapter-26"/>
+    <itemref idref="chapter-27"/>
+    <itemref idref="chapter-28"/>
+    <itemref idref="chapter-29"/>
+    <itemref idref="chapter-30"/>
+    <itemref idref="chapter-31"/>
+    <itemref idref="chapter-32"/>
+    <itemref idref="chapter-33"/>
+    <itemref idref="chapter-34"/>
+    <itemref idref="chapter-35"/>
+    <itemref idref="chapter-36"/>
+    <itemref idref="chapter-37"/>
+  </spine>
+</package>

@@ -33,11 +33,11 @@ epub2tts "$epub_file" --engine edge --speaker "$TTS_SPEAKER" --scan
 
 printf 'Exporting %s\n' "$text_file"
 rm -f "$text_file"
+cd "$work_dir"
 epub2tts "$epub_file" --engine edge --speaker "$TTS_SPEAKER" --export txt
 
 printf 'Generating %s with %s\n' "$output_file" "$TTS_SPEAKER"
 rm -f "$output_file"
-cd "$work_dir"
 epub2tts "$text_file" \
   --engine edge \
   --speaker "$TTS_SPEAKER" \

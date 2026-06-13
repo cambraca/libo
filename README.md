@@ -107,7 +107,7 @@ The first command compiles `audiobook/` into `audiobook.epub`. The Compose
 service then:
 
 1. Scans `audiobook.epub`.
-2. Exports its contents to `audiobook.txt`.
+2. Exports its contents to `.audiobook-work/audiobook.txt`.
 3. Uses Edge cloud TTS to generate `audiobook.m4b`.
 
 Intermediate and resumable audio files are stored in the ignored

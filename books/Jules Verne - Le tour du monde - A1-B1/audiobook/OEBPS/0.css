@@ -1,0 +1,13 @@
+body {
+    margin: 5%;
+    line-height: 1.4;
+}
+
+h2,
+h5 {
+    text-align: center;
+}
+
+p {
+    margin: 0.75em 0;
+}
