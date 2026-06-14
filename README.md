@@ -114,6 +114,9 @@ Intermediate and resumable audio files are stored in the ignored
 `books/Author - Title - A1-B1/.audiobook-work/` directory. Keep this directory to resume
 an interrupted generation, or remove it to restart synthesis from scratch.
 
+If the audiobook prompt creates `cover.png`, `cover.jpg`, or `cover.jpeg` in the
+book directory, the Compose service embeds it in `audiobook.m4b`.
+
 The default voice is `fr-FR-HenriNeural`. See https://tts.travisvn.com/ for a full list.
 
 Override the voice or concurrency with environment variables:

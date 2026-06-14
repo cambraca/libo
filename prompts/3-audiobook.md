@@ -4,6 +4,9 @@ This version should only have the text of the book (the part that was adapted), 
 acknowledgements section, etc. Do include a structured table of contents, if the book has one. See the initialize prompt
 to help identify what should be removed.
 
+If the target book has a cover image, copy it to `cover.png` on the book directory (with the appropriate extension), so
+the `epub2tts` command can use it later.
+
 Make sure each chapter is in its own file, so that the .m4b generation does chapter detection properly.
 
 Only create or modify files inside the `audiobook/` directory. Do not run `create-epub.sh`, Docker, Docker Compose,

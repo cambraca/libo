@@ -13,6 +13,7 @@ work_dir="$book_dir/.audiobook-work"
 text_file="$work_dir/audiobook.txt"
 voice_output="$work_dir/audiobook-${TTS_SPEAKER}.m4b"
 output_file="$book_dir/audiobook.m4b"
+cover_file=""
 
 if [[ ! -d "$book_dir" ]]; then
   printf 'Error: book directory does not exist: %s\n' "$book_dir" >&2
@@ -24,6 +25,13 @@ if [[ ! -f "$epub_file" ]]; then
   printf 'Create it first with: ./scripts/create-epub.sh "%s" audiobook\n' "$1" >&2
   exit 1
 fi
+
+for candidate in "$book_dir/cover.png" "$book_dir/cover.jpg" "$book_dir/cover.jpeg"; do
+  if [[ -f "$candidate" ]]; then
+    cover_file="$candidate"
+    break
+  fi
+done
 
 mkdir -p "$work_dir"
 cd "$book_dir"
@@ -38,11 +46,20 @@ epub2tts "$epub_file" --engine edge --speaker "$TTS_SPEAKER" --export txt
 
 printf 'Generating %s with %s\n' "$output_file" "$TTS_SPEAKER"
 rm -f "$output_file"
-epub2tts "$text_file" \
-  --engine edge \
-  --speaker "$TTS_SPEAKER" \
-  --threads "$TTS_THREADS" \
+tts_args=(
+  "$text_file"
+  --engine edge
+  --speaker "$TTS_SPEAKER"
+  --threads "$TTS_THREADS"
   --minratio 0
+)
+
+if [[ -n "$cover_file" ]]; then
+  printf 'Using cover image: %s\n' "$cover_file"
+  tts_args+=(--cover "$cover_file")
+fi
+
+epub2tts "${tts_args[@]}"
 
 if [[ ! -f "$voice_output" ]]; then
   printf 'Error: expected audiobook output was not created: %s\n' "$voice_output" >&2
