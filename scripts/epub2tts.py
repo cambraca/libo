@@ -13,6 +13,7 @@ from datetime import timedelta
 import os
 import multiprocessing as mp
 import re
+import random
 import subprocess
 import sys
 import time
@@ -32,12 +33,29 @@ class Text2WaveFile:
         raise NotImplementedError
 
     def proccess_text_retry(self, text, wave_file_name):
-        retries = 2
-        while retries > 0:
-            if self.proccess_text(text, wave_file_name):
-                return
-            retries -= 1
-        raise RuntimeError(f"Could not create audio file: {wave_file_name}")
+        attempts = 8
+        last_error = None
+        for attempt in range(1, attempts + 1):
+            remove_file(wave_file_name)
+            try:
+                self.proccess_text(text, wave_file_name)
+                if is_valid_audio_file(wave_file_name):
+                    return
+                last_error = RuntimeError("TTS returned an empty or invalid audio file")
+            except Exception as exc:
+                last_error = exc
+            remove_file(wave_file_name)
+            if attempt < attempts:
+                delay = min(30, 2 ** (attempt - 1)) + random.uniform(0, 1)
+                print(
+                    f"TTS attempt {attempt}/{attempts} failed for "
+                    f"{wave_file_name}: {last_error}. Retrying in {delay:.1f}s"
+                )
+                time.sleep(delay)
+        raise RuntimeError(
+            f"Could not create valid audio file {wave_file_name} after "
+            f"{attempts} attempts: {last_error}"
+        )
 
 class EdgeTTS(Text2WaveFile):
     def __init__(self, config = {}):
@@ -46,16 +64,25 @@ class EdgeTTS(Text2WaveFile):
         self.config = config
 
     def proccess_text(self, text, wave_file_name):
-
         asyncio.run(self.edgespeak(text, wave_file_name))
-
-        if os.path.exists(wave_file_name):
-            return True
-        return False
 
     async def edgespeak(self, text, wave_file_name):
         communicate = edge_tts.Communicate(text, self.config['speaker'])
         await communicate.save(wave_file_name)
+
+def remove_file(file_path):
+    try:
+        os.remove(file_path)
+    except FileNotFoundError:
+        pass
+
+def is_valid_audio_file(file_path):
+    if not os.path.isfile(file_path) or os.path.getsize(file_path) == 0:
+        return False
+    try:
+        return len(AudioSegment.from_file(file_path)) > 0
+    except Exception:
+        return False
 
 def get_duration(file_path):
     audio = AudioSegment.from_file(file_path)
@@ -97,7 +124,7 @@ def join_temp_files_to_chapter(tempfiles, outputwav):
 def process_book_chapter(dat):
     print("initiating chapter: ", dat['chapter'])
     tts_engine = dat['config']['engine_cl'](dat['config'])
-    for text, file_name in dat['sentene_job_que']:
+    for text, file_name in dat['synthesis_jobs']:
         try:
             tts_engine.proccess_text_retry(text, file_name)
         except Exception as exc:
@@ -107,7 +134,7 @@ def process_book_chapter(dat):
 
     text_timings = []
     time_ofset = 0
-    for text, file_name in dat['sentene_job_que']:
+    for text, file_name in dat['timing_jobs']:
         sound_start_ms = time_ofset
         sound_len_ms = get_duration(file_name)
         time_ofset += sound_len_ms
@@ -324,12 +351,17 @@ class TextToAudiobook:
         print(f"Reading from {self.start + 1} to {self.end}")
         chapter_job_que = []
         for partnum, i in enumerate(range(self.start, self.end)):
-            sentene_job_que = []
+            synthesis_jobs = []
+            timing_jobs = []
             outputwav = f"{self.bookname}-{i + 1}.wav"
             files.append(outputwav)
-            if os.path.isfile(outputwav):
+            if is_valid_audio_file(outputwav) and os.path.isfile(outputwav + ".timing"):
                 print(f"{outputwav} exists, skipping to next chapter")
             else:
+                remove_file(outputwav + ".timing")
+                if os.path.exists(outputwav):
+                    print(f"{outputwav} is incomplete or invalid; regenerating chapter")
+                    remove_file(outputwav)
                 tempfiles = []
                 chapter_name = "Part " + str(partnum + 1)
                 if len(self.section_names) > 0:
@@ -369,12 +401,23 @@ class TextToAudiobook:
                         continue
                     tempwav = "temp"+ str(partnum)+ "_" + str(x) + ".wav"
 
-                    if os.path.isfile(tempwav):
+                    if is_valid_audio_file(tempwav):
                         print(tempwav + " exists, skipping to next chunk")
                     else:
-                        sentene_job_que.append((sentence_groups[x], tempwav))
+                        if os.path.exists(tempwav):
+                            print(tempwav + " is empty or invalid; regenerating chunk")
+                            remove_file(tempwav)
+                        synthesis_jobs.append((sentence_groups[x], tempwav))
+                    timing_jobs.append((sentence_groups[x], tempwav))
                     tempfiles.append(tempwav)
-                chapter_job_que.append(({'config': config, 'tempfiles': tempfiles, 'sentene_job_que': sentene_job_que, 'outputwav': outputwav, 'chapter': chapter_name}))
+                chapter_job_que.append({
+                    'config': config,
+                    'tempfiles': tempfiles,
+                    'synthesis_jobs': synthesis_jobs,
+                    'timing_jobs': timing_jobs,
+                    'outputwav': outputwav,
+                    'chapter': chapter_name,
+                })
 
         print("initiating work:")
 
@@ -385,7 +428,7 @@ class TextToAudiobook:
             pool.map(process_book_chapter, chapter_job_que)
         files2 =[]
         for filename in files:
-            if os.path.isfile(filename):
+            if is_valid_audio_file(filename) and os.path.isfile(filename + ".timing"):
                 files2.append(filename)
         files = files2
         outputm4a = self.output_filename.replace("m4b", "m4a")
