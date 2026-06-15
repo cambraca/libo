@@ -12,17 +12,19 @@ Author: Jules Verne
 
 # Chapitre I. Dans lequel Phileas Fogg et Passepartout s'acceptent réciproquement, l'un comme maître, l'autre comme domestique.
 
+Chapitre I. Dans lequel Phileas Fogg et Passepartout s'acceptent réciproquement, l'un comme maître, l'autre comme domestique.
 En 1872, Phileas Fogg habite au numéro 7 de Saville-row, à Londres. C'est une maison célèbre.
 On ne sait presque rien sur Phileas Fogg. C'est un homme poli et élégant.
 
 # Chapitre II. Où Passepartout est convaincu qu'il a enfin trouvé son idéal
 
+Chapitre II. Où Passepartout est convaincu qu'il a enfin trouvé son idéal
 Passepartout est convaincu qu'il a enfin trouvé une vie tranquille.
 ```
 
 The first two lines must contain `Title:` and `Author:`. Each chapter must begin with `# ` followed by its proper chapter
-name or title. Do not use generic names such as `Part 1`, `Part 2`, or `Chapter 3` when the target book provides real
-chapter names.
+name or title (use title case, not upper case). Do not use generic names such as `Part 1`, `Part 2`, or `Chapter 3` when
+the target book provides real chapter names. Repeat the title so the TTS can convert it to audio.
 
 Ideally, put one paragraph on each non-heading line. If a paragraph is unusually long, split it at natural sentence or
 clause boundaries into shorter lines. Keep each line comfortably below 1,000 characters so requests to Microsoft Edge
