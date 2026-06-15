@@ -93,26 +93,24 @@ Run the audiobook prompt after the target book has been processed and verified:
 codex exec "Run the audiobook prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
 ```
 
-The prompt only creates the audiobook-specific EPUB tree in `audiobook/`. It
-does not compile the EPUB or run Docker.
+The prompt creates `audiobook.txt` in the book directory. It does not run Docker.
 
 After the prompt finishes, run these commands yourself from the repository root:
 
 ```shell
-./scripts/create-epub.sh "Author - Title - A1-B1" audiobook
 docker compose run --rm epub2tts "Author - Title - A1-B1"
 ```
 
-The first command compiles `audiobook/` into `audiobook.epub`. The Compose
-service then:
-
-1. Scans `audiobook.epub`.
-2. Exports its contents to `.audiobook-work/audiobook.txt`.
-3. Uses Edge cloud TTS to generate `audiobook.m4b`.
+The Compose service reads `audiobook.txt` and uses Edge cloud TTS to generate
+`audiobook.m4b`.
 
 Intermediate and resumable audio files are stored in the ignored
 `books/Author - Title - A1-B1/.audiobook-work/` directory. Keep this directory to resume
 an interrupted generation, or remove it to restart synthesis from scratch.
+
+The Edge TTS conversion script was downloaded from
+[aedocw/epub2tts](https://github.com/aedocw/epub2tts) on June 13, 2026, then
+adapted to support only Microsoft Edge TTS.
 
 If the audiobook prompt creates `cover.png`, `cover.jpg`, or `cover.jpeg` in the
 book directory, the Compose service embeds it in `audiobook.m4b`.

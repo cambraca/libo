@@ -8,9 +8,8 @@ if [[ $# -ne 1 ]]; then
 fi
 
 book_dir="/books/$1"
-epub_file="$book_dir/audiobook.epub"
+text_file="$book_dir/audiobook.txt"
 work_dir="$book_dir/.audiobook-work"
-text_file="$work_dir/audiobook.txt"
 voice_output="$work_dir/audiobook-${TTS_SPEAKER}.m4b"
 output_file="$book_dir/audiobook.m4b"
 cover_file=""
@@ -20,9 +19,9 @@ if [[ ! -d "$book_dir" ]]; then
   exit 1
 fi
 
-if [[ ! -f "$epub_file" ]]; then
-  printf 'Error: audiobook EPUB does not exist: %s\n' "$epub_file" >&2
-  printf 'Create it first with: ./scripts/create-epub.sh "%s" audiobook\n' "$1" >&2
+if [[ ! -f "$text_file" ]]; then
+  printf 'Error: audiobook text does not exist: %s\n' "$text_file" >&2
+  printf 'Create it first by running the audiobook prompt.\n' >&2
   exit 1
 fi
 
@@ -34,24 +33,14 @@ for candidate in "$book_dir/cover.png" "$book_dir/cover.jpg" "$book_dir/cover.jp
 done
 
 mkdir -p "$work_dir"
-cd "$book_dir"
-
-printf 'Scanning %s\n' "$epub_file"
-epub2tts "$epub_file" --engine edge --speaker "$TTS_SPEAKER" --scan
-
-printf 'Exporting %s\n' "$text_file"
-rm -f "$text_file"
 cd "$work_dir"
-epub2tts "$epub_file" --engine edge --speaker "$TTS_SPEAKER" --export txt
 
 printf 'Generating %s with %s\n' "$output_file" "$TTS_SPEAKER"
 rm -f "$output_file"
 tts_args=(
   "$text_file"
-  --engine edge
   --speaker "$TTS_SPEAKER"
   --threads "$TTS_THREADS"
-  --minratio 0
 )
 
 if [[ -n "$cover_file" ]]; then
