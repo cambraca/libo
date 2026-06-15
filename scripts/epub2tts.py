@@ -8,8 +8,6 @@ Microsoft Edge TTS.
 
 import argparse
 import asyncio
-import pickle
-from datetime import timedelta
 import os
 import multiprocessing as mp
 import re
@@ -109,9 +107,6 @@ def join_temp_files_to_chapter(tempfiles, outputwav):
         audio_modified += one_sec_silence
         msec_added += 1000
 
-    if len(chunks) != 1:
-        print("Warning, parts with silence was removed .srt will be out of sync")
-
     # add extra 2sec silence at the end of each part/chapter
     msec_added += 2000
     audio_modified += two_sec_silence
@@ -128,27 +123,11 @@ def process_book_chapter(dat):
         try:
             tts_engine.proccess_text_retry(text, file_name)
         except Exception as exc:
-            # Ensure exceptions are pickle-safe for multiprocessing.
+            # Ensure exceptions are safe to pass through multiprocessing.
             msg = f"Chapter '{dat['chapter']}' failed: {exc.__class__.__name__}: {exc}"
             raise RuntimeError(msg) from None
 
-    text_timings = []
-    time_ofset = 0
-    for text, file_name in dat['timing_jobs']:
-        sound_start_ms = time_ofset
-        sound_len_ms = get_duration(file_name)
-        time_ofset += sound_len_ms
-        text_timings.append((sound_start_ms, sound_len_ms, text))
-
     join_temp_files_to_chapter(dat['tempfiles'], dat['outputwav'])
-
-    actual_chaper_len_msec = get_duration(dat['outputwav'])
-
-    text_timings.append((actual_chaper_len_msec, 0, "")) #append empty entry to help resyncronise after silence removal
-
-    with open(dat['outputwav']+".timing", "wb") as fp:
-        pickle.dump(text_timings, fp)
-
 
     print("done chapter: ", dat['chapter'])
     return dat['outputwav']
@@ -352,13 +331,11 @@ class TextToAudiobook:
         chapter_job_que = []
         for partnum, i in enumerate(range(self.start, self.end)):
             synthesis_jobs = []
-            timing_jobs = []
             outputwav = f"{self.bookname}-{i + 1}.wav"
             files.append(outputwav)
-            if is_valid_audio_file(outputwav) and os.path.isfile(outputwav + ".timing"):
+            if is_valid_audio_file(outputwav):
                 print(f"{outputwav} exists, skipping to next chapter")
             else:
-                remove_file(outputwav + ".timing")
                 if os.path.exists(outputwav):
                     print(f"{outputwav} is incomplete or invalid; regenerating chapter")
                     remove_file(outputwav)
@@ -408,13 +385,11 @@ class TextToAudiobook:
                             print(tempwav + " is empty or invalid; regenerating chunk")
                             remove_file(tempwav)
                         synthesis_jobs.append((sentence_groups[x], tempwav))
-                    timing_jobs.append((sentence_groups[x], tempwav))
                     tempfiles.append(tempwav)
                 chapter_job_que.append({
                     'config': config,
                     'tempfiles': tempfiles,
                     'synthesis_jobs': synthesis_jobs,
-                    'timing_jobs': timing_jobs,
                     'outputwav': outputwav,
                     'chapter': chapter_name,
                 })
@@ -428,7 +403,7 @@ class TextToAudiobook:
             pool.map(process_book_chapter, chapter_job_que)
         files2 =[]
         for filename in files:
-            if is_valid_audio_file(filename) and os.path.isfile(filename + ".timing"):
+            if is_valid_audio_file(filename):
                 files2.append(filename)
         files = files2
         outputm4a = self.output_filename.replace("m4b", "m4a")
@@ -437,30 +412,6 @@ class TextToAudiobook:
             for filename in files:
                 filename = filename.replace("'", "'\\''")
                 f.write(f"file '{filename}'\n")
-
-        with open(self.output_filename+".srt", "w", encoding='utf8') as srt:
-            chapter_ofset = 0
-            sentance_no = 0
-            for filename in files:
-                with open(filename+".timing", "rb") as fp:
-                    chapter_text_timings = pickle.load(fp)
-                    end_ms = 0
-                    for start_ms, len_ms, text in chapter_text_timings:
-                        end_ms = start_ms + len_ms
-                        if text == "": #If the text is empty we count the time but dont add any text
-                            continue
-                        sentance_no += 1
-                        delta_start = timedelta(milliseconds=start_ms+chapter_ofset)
-                        formatted_start = f"{delta_start.seconds // 3600:02}:{(delta_start.seconds % 3600) // 60:02}:{delta_start.seconds % 60:02},{delta_start.microseconds // 1000:03}"
-                        delta_end = timedelta(milliseconds=end_ms+chapter_ofset)
-                        formatted_end = f"{delta_end.seconds // 3600:02}:{(delta_end.seconds % 3600) // 60:02}:{delta_end.seconds % 60:02},{delta_end.microseconds // 1000:03}"
-                        srt.write(f"{sentance_no}\n")
-                        srt.write(f"{formatted_start} --> {formatted_end}\n")
-                        clean_text = text.replace("\n", " ")
-                        srt.write(f"{clean_text}\n\n")
-
-
-                    chapter_ofset += end_ms
 
         for i in self.audioformat:
             if i == "wav":
@@ -528,7 +479,6 @@ class TextToAudiobook:
             os.remove(self.ffmetadatafile)
             for f in files:
                 os.remove(f)
-                os.remove(f+".timing")
         print(self.output_filename + " complete")
 
 
