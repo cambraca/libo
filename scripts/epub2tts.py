@@ -18,10 +18,8 @@ import time
 
 import edge_tts
 from mutagen import mp4
-from nltk.tokenize import sent_tokenize
 from pydub import AudioSegment
 from pydub.silence import split_on_silence
-import nltk
 
 class Text2WaveFile:
     def __init__(self, config = {}):
@@ -164,18 +162,6 @@ class TextToAudiobook:
             print("Can only handle a txt source.")
             sys.exit(1)
         self.ffmetadatafile = "FFMETADATAFILE"
-        # Make sure we've got nltk punkt
-        self.ensure_punkt()
-
-    def ensure_punkt(self):
-        try:
-            nltk.data.find("tokenizers/punkt")
-        except LookupError:
-            nltk.download("punkt")
-        try:
-            nltk.data.find("tokenizers/punkt_tab")
-        except LookupError:
-            nltk.download("punkt_tab")
 
 
     def generate_metadata(self, files):
@@ -269,10 +255,6 @@ class TextToAudiobook:
         print(f"Section names: {self.section_names}") if self.debug else None
 
 
-    def combine_sentences(self, sentences, length=1000):
-        for sentence in sentences:
-            yield sentence
-
     def check_for_file(self, filename):
         if os.path.isfile(filename):
             print(f"The file '{filename}' already exists.")
@@ -331,7 +313,7 @@ class TextToAudiobook:
         chapter_job_que = []
         for partnum, i in enumerate(range(self.start, self.end)):
             synthesis_jobs = []
-            outputwav = f"{self.bookname}-{i + 1}.wav"
+            outputwav = f"{self.bookname}-lines-{i + 1}.wav"
             files.append(outputwav)
             if is_valid_audio_file(outputwav):
                 print(f"{outputwav} exists, skipping to next chapter")
@@ -361,22 +343,14 @@ class TextToAudiobook:
                 }
 
 
-                sentences = sent_tokenize(chapter)
-                #Drop any items that do NOT have at least one letter or number
-                sentences = [s for s in sentences if any(c.isalnum() for c in s)]
-                sentence_groups = list(self.combine_sentences(sentences, 1000))
+                chunks = [
+                    line.strip()
+                    for line in chapter.splitlines()
+                    if any(char.isalnum() for char in line)
+                ]
 
-
-                #tts_engine = config['engine_cl'](config)
-
-                for x in range(len(sentence_groups)):
-                    #skip if item is empty
-                    if len(sentence_groups[x]) == 0:
-                        continue
-                    #skip if item has no characters or numbers
-                    if not any(char.isalnum() for char in sentence_groups[x]):
-                        continue
-                    tempwav = "temp"+ str(partnum)+ "_" + str(x) + ".wav"
+                for x, chunk in enumerate(chunks):
+                    tempwav = "temp_line_"+ str(partnum)+ "_" + str(x) + ".wav"
 
                     if is_valid_audio_file(tempwav):
                         print(tempwav + " exists, skipping to next chunk")
@@ -384,7 +358,7 @@ class TextToAudiobook:
                         if os.path.exists(tempwav):
                             print(tempwav + " is empty or invalid; regenerating chunk")
                             remove_file(tempwav)
-                        synthesis_jobs.append((sentence_groups[x], tempwav))
+                        synthesis_jobs.append((chunk, tempwav))
                     tempfiles.append(tempwav)
                 chapter_job_que.append({
                     'config': config,

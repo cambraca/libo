@@ -7,9 +7,7 @@ RUN apt-get update \
 RUN pip install --no-cache-dir \
       edge-tts \
       mutagen \
-      nltk \
-      pydub \
-    && python -m nltk.downloader -d /usr/local/share/nltk_data punkt punkt_tab
+      pydub
 
 COPY scripts/epub2tts.py /usr/local/lib/epub2tts.py
 
@@ -20,5 +18,3 @@ RUN printf '#!/bin/sh\nexec python /usr/local/lib/epub2tts.py "$@"\n' \
 
 ENTRYPOINT ["epub2tts"]
 CMD ["--help"]
-
-ENV NLTK_DATA=/usr/local/share/nltk_data
