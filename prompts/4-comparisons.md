@@ -1,13 +1,21 @@
-For each paragraph in the target book (or, if there are multiple paragraphs that can be grouped together, like a
-sequence of short dialogue lines), add these links as EPUB footnotes (assuming the target language is French and the
+For each paragraph in the target book, add these links as EPUB footnotes (assuming the target language is French and the
 native language is Spanish):
 
-1. "FR+" - The corresponding original text from the source book.
-2. "ES-" - The Spanish translation of the simplified paragraph.
+1. "ES" - The Spanish translation of the simplified paragraph.
+2. "FR+" - The corresponding original text from the source book.
 3. "ES+" - The direct Spanish translation of the original text.
 
-Use real EPUB footnotes: each visible comparison link should point to a matching footnote `aside`, and each footnote
-should link back to the paragraph.
+If there are multiple short paragraphs in a row, like a sequence of short dialogue lines, group them together.
+
+Comparison text in the native language must use normal orthography. Preserve all required diacritics and characters. Do
+not emit ASCII-only text.
+
+Use real EPUB footnotes. Keep each comparison footnote `aside` directly after the paragraph it belongs to; do not put
+comparison footnotes in a separate file. Each visible comparison link should point to a matching hidden footnote
+`aside`. Add `epub:type="noteref"` and `role="doc-noteref"` to each visible comparison link. Add
+`epub:type="footnote"`, `role="doc-footnote"`, and `hidden="until-found"` to each comparison footnote `aside`.
+
+Do not add visible labels inside the footnote bodies, such as `.comparison-label` spans, and do not add "return" links.
 
 Add this to the CSS (check for naming collisions with the existing styles and adapt this snippet if necessary):
 
@@ -20,7 +28,7 @@ Add this to the CSS (check for naming collisions with the existing styles and ad
 }
 .comparison-refs a {
     margin-left: 0.25em;
-    color: #555;
+    color: #888;
     text-decoration: none;
 }
 .comparison-refs a:focus,
@@ -29,22 +37,6 @@ Add this to the CSS (check for naming collisions with the existing styles and ad
     text-decoration: underline;
 }
 
-/* Hidden by most EPUB readers until opened from a noteref link. */
-.comparison-footnote {
-    margin: 1em 0;
-    padding: 0.75em;
-    border-left: 0.2em solid #777;
-    background-color: #f3f3f3;
-    color: #222;
-    font-size: 0.9em;
-}
-.comparison-footnote p {
-    margin-top: 0;
-    text-indent: 0;
-}
-.comparison-footnote .comparison-label {
-    font-weight: bold;
-}
 ```
 
 Do not try to use external tools for generating the translation. Do it in this session, one chapter at a time.
