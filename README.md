@@ -73,7 +73,18 @@ Run all commands from the repository root, and replace `Author - Title - A1-B1` 
    codex exec "Run the verify prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
    ```
 
-6. Compile `target/` into `target.epub`:
+6. Add comparison footnotes for language study:
+
+   ```shell
+   codex exec "Run the comparisons prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+   ```
+
+   The prompt adds compact `FR+`, `ES-`, and `ES+` footnote links to the
+   adapted text. `FR+` shows the corresponding original target-language text,
+   `ES-` translates the simplified paragraph into the native language, and
+   `ES+` translates the original paragraph into the native language.
+
+7. Compile `target/` into `target.epub`:
 
    ```shell
    ./scripts/create-epub.sh "Author - Title - A1-B1"
