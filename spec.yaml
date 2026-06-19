@@ -1,0 +1,48 @@
+schemaVersion: "1"
+kind: mixin
+name: libo-epub-tools
+displayName: Libo EPUB Tools
+description: Tools Codex needs to adapt EPUB books for Libo.
+
+network:
+  allowedDomains:
+    - archive.ubuntu.com
+    - security.ubuntu.com
+
+environment:
+  variables:
+    TERM: xterm-256color
+
+commands:
+  install:
+    - description: Install EPUB inspection and build tools
+      user: root
+      command: |
+        apt-get update
+        apt-get install -y --no-install-recommends \
+          ca-certificates \
+          curl \
+          file \
+          git \
+          libxml2-utils \
+          jq \
+          less \
+          nano \
+          openssh-client \
+          python3 \
+          python3-bs4 \
+          python3-lxml \
+          python3-pip \
+          python3-yaml \
+          python3-venv \
+          ripgrep \
+          rsync \
+          sed \
+          shellcheck \
+          unzip \
+          vim-tiny \
+          xmlstarlet \
+          xz-utils \
+          yamllint \
+          zip
+        rm -rf /var/lib/apt/lists/*

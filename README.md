@@ -10,13 +10,33 @@ Each book is an independent project stored directly under `books/`.
 ## Requirements
 
 - [Codex CLI](https://developers.openai.com/codex/cli/) for running the prompts.
+- `sbx` for running Codex inside the Docker sandbox.
 - `unzip` for extracting the source EPUB.
 - `zip` for compiling EPUB directories with `scripts/create-epub.sh`.
 - Docker with the Compose plugin for audiobook generation.
 - An internet connection to build the audiobook image and use Edge cloud TTS.
+- An internet connection to install the Codex sandbox kit dependencies the first time.
 
-Docker is only required for the audiobook workflow. The first audiobook build
-downloads the container dependencies.
+The Codex sandbox kit is configured in `spec.yaml`. It installs Python 3, Git,
+ripgrep (`rg`), `jq`, `zip`, `unzip`, and other common command-line tools used
+while inspecting and editing EPUB contents.
+
+Install Docker Desktop or Docker Engine, then install `sbx`. Use
+`scripts/codex.sh` to run Codex. The wrapper creates the `codex-libo` sandbox
+with the project kit if it does not already exist.
+
+Log in to Codex inside the sandbox once:
+
+```shell
+./scripts/codex.sh login
+```
+
+The sandbox stores Codex state in a Docker volume, so login state and resumable
+sessions persist between runs. The wrapper reattaches to the `codex-libo`
+sandbox for every prompt.
+
+The audiobook workflow uses a separate Compose service in `compose.yaml`. Its
+first build downloads the audiobook container dependencies.
 
 ## Book Layout
 
@@ -55,7 +75,7 @@ Run all commands from the repository root, and replace `Author - Title - A1-B1` 
 2. Initialize the language-learning edition:
 
    ```shell
-   codex exec "Run the initialize prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+   ./scripts/codex.sh "Run the initialize prompt for the book \"Author - Title - A1-B1\"."
    ```
 
 3. Confirm that Codex created `target/`, `sections.yaml`, and `progress.md`.
@@ -64,19 +84,19 @@ Run all commands from the repository root, and replace `Author - Title - A1-B1` 
    section is complete:
 
    ```shell
-   codex exec "Run an iteration of the process prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+   ./scripts/codex.sh resume --last "Run an iteration of the process prompt for the book \"Author - Title - A1-B1\"."
    ```
 
 5. Verify and correct the completed target book:
 
    ```shell
-   codex exec "Run the verify prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+   ./scripts/codex.sh resume --last "Run the verify prompt for the book \"Author - Title - A1-B1\"."
    ```
 
 6. Add comparison footnotes for language study:
 
    ```shell
-   codex exec "Run the comparisons prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+   ./scripts/codex.sh resume --last "Run the comparisons prompt for the book \"Author - Title - A1-B1\"."
    ```
 
    The prompt adds compact `FR+`, `ES-`, and `ES+` footnote links to the
@@ -101,7 +121,7 @@ Run all commands from the repository root, and replace `Author - Title - A1-B1` 
 Run the audiobook prompt after the target book has been processed and verified:
 
 ```shell
-codex exec "Run the audiobook prompt for the book \"Author - Title - A1-B1\". Only inspect files under the current directory."
+./scripts/codex.sh resume --last "Run the audiobook prompt for the book \"Author - Title - A1-B1\"."
 ```
 
 The prompt creates `audiobook.txt` in the book directory. It does not run Docker.
