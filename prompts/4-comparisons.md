@@ -5,8 +5,8 @@ native language is Spanish):
 2. "FR+" - The corresponding original text from the source book.
 3. "ES+" - The direct Spanish translation of the original text.
 
-If there are multiple short paragraphs in a row, like a sequence of short dialogue lines, group them together, but make
-sure the groups are not too large.
+If there are multiple very short paragraphs in a row, like a sequence of short dialogue lines, you're allowed to group
+them together, but make sure the groups are not too large. Paragraphs with more than one sentence should never be grouped.
 
 Comparison text in the native language must use normal orthography. Preserve all required diacritics and characters. Do
 not emit ASCII-only text.
