@@ -1,2 +1,4 @@
 *.m4b
 books/*/.audiobook-work/
+__pycache__/
+*.py[cod]
