@@ -133,13 +133,14 @@ a {
 /* Compact comparison footnote links shown after adapted paragraphs. */
 .comparison-refs {
     white-space: nowrap;
-    font-size: 0.75em;
+    font-size: 0.75rem;
     vertical-align: super;
 }
 .comparison-refs a {
     margin-left: 0.25em;
     color: #888;
     text-decoration: none;
+    font-weight: normal;
 }
 .comparison-refs a:focus,
 .comparison-refs a:hover {
