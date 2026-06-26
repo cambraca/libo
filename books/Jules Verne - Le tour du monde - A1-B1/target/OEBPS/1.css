@@ -133,8 +133,7 @@ a {
 /* Compact comparison footnote links shown after adapted paragraphs. */
 .comparison-refs {
     white-space: nowrap;
-    font-size: 0.75rem;
-    vertical-align: super;
+    font-size: 0.6rem;
 }
 .comparison-refs a {
     margin-left: 0.25em;
