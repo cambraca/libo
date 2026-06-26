@@ -24,8 +24,7 @@ Add this to the CSS (check for naming collisions with the existing styles and ad
 /* Compact comparison footnote links shown after adapted paragraphs. */
 .comparison-refs {
     white-space: nowrap;
-    font-size: 0.75em;
-    vertical-align: super;
+    font-size: 0.6em;
 }
 .comparison-refs a {
     margin-left: 0.25em;
